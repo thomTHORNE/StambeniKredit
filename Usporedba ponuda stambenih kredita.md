@@ -28,6 +28,33 @@ Od ostalih banaka još nema ponuda; ovo su fiksne kamate za cijeli rok s njihovi
 
 Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u tablicu Dobivene ponude.
 
+## Polica osiguranja otplate kredita (CPI)
+
+Obje banke daju 3,29 % uz CPI policu, ali se polica plaća različito. Financijski se ni u jednoj ne isplati; njezina vrijednost je zaštita od gubitka prihoda.
+
+| | HPB | Zaba |
+| --- | --- | --- |
+| Pokriva | smrt, bolovanje, nezaposlenost | paket A: smrt, trajna nesposobnost za rad; paket B: i bolovanje, nezaposlenost (do 6 anuiteta po događaju, najviše 2 puta) |
+| Plaćanje | jednokratno, 4,41 – 9,55 % iznosa kredita | mjesečno, uz anuitet |
+| Trajanje | 10 ili 15 godina | cijeli rok kredita |
+| Kamata uz CPI | 3,29 % (bez 3,49 %) | 3,29 % (bez 3,49 %) |
+| Primjer | 180.000 €: 7.938 – 17.190 € odmah; ušteda na kamati oko 7.200 € kroz 30 god. | 100.000 € na 20 god.: polica 9.127,20 €, EKS 4,22 % (bez CPI 3,81 %); ukupno oko 5.000 € skuplje |
+| Osiguratelj | – | Generali |
+
+Izvori: odgovor HPB-a (9. 10. 2026.), [Zaba – opće informacije o stambenom kreditu (3. 7. 2026.)](https://www.zaba.hr/home/stambeni-kredit), [Zaba – životno osiguranje otplate stambenih kredita](https://www.zaba.hr/home/osiguranje-otplate-stambenih-kredita-generali-osiguranja).
+
+## Otplata u anuitetima ili ratama
+
+HPB-ova ponuda je u anuitetima (jednaka mjesečna rata). Kod otplate u ratama prva rata je najviša, pa ona određuje kreditnu sposobnost.
+
+| | 180.000 € | 166.000 € |
+| --- | --- | --- |
+| Anuitet (3,49 %, 30 god.) | 807,28 € | – |
+| Prva rata kod otplate u ratama | oko 1.023 € | oko 944 € |
+| HNB granica (45 % od 2.100 €) | 945 € | 945 € |
+
+Otplata u ratama s 180.000 € prelazi granicu; najveći iznos u ratama je oko 166.000 €. Promijeniti bi to mogla sudužnica ili iznimka banke. Treba provjeriti nudi li HPB uopće otplatu u ratama.
+
 ## Povezani dokumenti
 
 - HPB ponuda – stambeni kredit – detalji HPB ponude, uvjeti, polica osiguranja, otvorena pitanja i komunikacija s bankom

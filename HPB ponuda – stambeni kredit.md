@@ -70,16 +70,8 @@ Nije pokriveno: stvari u kući, gljivice od vlage. Policu sklopljenu na više od
 - [x] Što pokriva polica osiguranja nekretnine? → Vidi gore.
 - [x] Koju vrijednost banka uzima? → Nižu od kupoprodajne cijene i procjene (HNB pravilo).
 
-## Kontakt i povijest komunikacije
+## Kontakt i komunikacija
 
-Osobna bankarica: Ana Gotovac (ranije Marić), HPB, poslovnica Sesvete. Info telefon HPB-a: 0800 472 472.
-
-| Datum | Događaj |
-| --- | --- |
-| 9. 10. 2026. | Anin odgovor: 3,29 % je uz CPI policu; ponuda uz paket SUPER; poslani uvjeti police osiguranja nekretnine |
-| 7. 10. 2026. | Poslan mail s pitanjima o kamati, paketu SUPER i polici osiguranja |
-| 7. 10. 2026. | Sastanak u poslovnici; dobivena ponuda i otplatni plan (180.000 €, 3,49 %) |
-| 6. 10. 2026. | Poslan prvi upit o kreditnoj sposobnosti i dogovoren termin |
-| 2025. | Prvi razgovor o kreditnoj sposobnosti i stambenom kreditu |
+Kontakt bankarice i slijed komunikacije s HPB-om vode se u dokumentu Kontakti i komunikacija.
 
 Izvori: HPB otplatni plan i Prilog 1 (7. 10. 2026.), IPID i Uvjeti za osiguranje građevinskog dijela kuće ili stana (Croatia osiguranje), [HPB Super stambeni kredit](https://www.hpb.hr/hr/super-stambeni-kredit/90), [HPB paket SUPER](https://www.hpb.hr/hr/hpb-paket-super/10810), [Odluka o kriterijima kreditiranja potrošača, NN 50/2025](<https://zakon.hr/c/podzakonski-propis/540652/nn-50-2025-(19.3.2025.),-odluka-o-kriterijima-kreditiranja-potrosaca>).

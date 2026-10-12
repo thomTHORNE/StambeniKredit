@@ -105,7 +105,8 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 
 ## Što još treba potvrditi
 
-- [ ] Konačna kupoprodajna cijena i iznos kapare
+- [x] Kupoprodajna cijena: dogovorena 200.000 €
+- [ ] Iznos kapare (do 10 %, može i manje)
 - [ ] Provizija Dom Eksperta: postotak, je li s PDV-om, kada dospijeva
 - [ ] Kvadratura kuće i prosječna cijena m² u Zelini (MPGI kalkulator) za izračun povrata poreza
 - [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat)
@@ -113,7 +114,7 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 - [ ] Iznos sudske pristojbe za upis u zemljišne knjige
 - [ ] Komunalna naknada za kuću (Grad Sveti Ivan Zelina)
 - [ ] Ima li Grad ili Zagrebačka županija potporu za mlade pri kupnji
-- [ ] Ima li kuća uporabnu dozvolu ili rješenje o izvedenom stanju
+- [x] Ima li kuća uporabnu dozvolu ili rješenje o izvedenom stanju: kuća ima rješenje o izvedenom stanju (vidi Dokumentacija kuće – otvorena pitanja)
 - [ ] Režije prethodnih 12 mjeseci od prodavatelja
 - [ ] Cijena dodatnog osiguranja od potresa
 

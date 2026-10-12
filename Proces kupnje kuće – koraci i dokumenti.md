@@ -4,7 +4,7 @@ Oct 9, 2026
 
 ## Pregled
 
-Kupnja ide u pet faza; trenutno smo u fazi 1: kreditna sposobnost je provjerena, a čekamo dokumentaciju kuće od agencije.
+Kupnja ide u pet faza; trenutno smo u fazi 1: kreditna sposobnost je provjerena, dokumentacija kuće je stigla i analizirana, a otvorena pitanja su u dokumentu Dokumentacija kuće – otvorena pitanja.
 
 | Faza | Što se događa | Prvi potpis / plaćanje | Stanje |
 | --- | --- | --- | --- |
@@ -21,7 +21,8 @@ Prije predugovora treba provjeriti je li kuća pravno čista i legalna, jer se p
 **Koraci**
 
 - [x] Provjera kreditne sposobnosti u banci (HPB, 7. 10. 2026.)
-- [ ] Pregled dokumentacije kuće od agencije (Roko, Dom Ekspert)
+- [x] Pregled dokumentacije kuće od agencije (Roko, Dom Ekspert), 12. 10. 2026.; nalazi u dokumentu Dokumentacija kuće – otvorena pitanja
+- [ ] Rješavanje otvorenih pitanja iz dokumentacije kuće (stabilnost tla, vlasništvo, izvadak iz zemljišnih knjiga)
 - [ ] Obilazak kuće: stanje krova, instalacija, vlaga, grijanje
 - [ ] Dogovor s prodavateljicom: cijena, iznos kapare, rok za kupoprodajni ugovor, što ostaje u kući
 - [ ] Potvrda od agenta: kapara se uračunava u cijenu; predugovor uvjetovan odobrenjem kredita
@@ -117,3 +118,4 @@ Uz povrat poreza vrijedi obveza: 5 godina od isplate kuću ne smijete prodati ni
 - HPB ponuda – stambeni kredit – HPB ponuda, uvjeti i otvorena pitanja za banku
 - Usporedba ponuda stambenih kredita – usporedba ponuda za kredit
 - Dokumentacija kuće – otvorena pitanja – otvorena pitanja iz dokumentacije kuće
+- Kontakti i komunikacija – kontakti i slijed komunikacije
