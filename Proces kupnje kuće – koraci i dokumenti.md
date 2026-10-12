@@ -112,6 +112,19 @@ Nakon kupnje treba upisati vlasništvo, platiti porez i prijaviti prebivalište,
 
 Uz povrat poreza vrijedi obveza: 5 godina od isplate kuću ne smijete prodati ni iznajmiti i u njoj morate imati prebivalište.
 
+## Rokovi
+
+Rokovi koje treba pratiti; „provjeriti” znači da rok još nije poznat. Svaki novi pravni dokument ili postupak dodaje se ovdje.
+
+| Dokument ili postupak | Rok | Stanje |
+| --- | --- | --- |
+| HPB ponuda (7. 10. 2026.) | provjeriti do kada vrijedi | otvoreno |
+| Predugovor | rok za sklapanje kupoprodajnog ugovora dogovara se u predugovoru | provjeriti pri izradi |
+| Procjena nekretnine | vrijedi 12 mjeseci od izrade | još nije izrađena |
+| Porez na promet nekretnina | 15 dana od dostave rješenja Porezne uprave | nakon kupnje |
+| Zahtjev APN-u za povrat poreza | 24 mjeseca od stjecanja vlasništva | nakon kupnje |
+| Obveza nakon povrata poreza | 5 godina bez prodaje, najma i odjave prebivališta | nakon isplate povrata |
+
 ## Povezani dokumenti
 
 - Troškovnik kupnje kuće – Sveti Ivan Zelina – koliko što stoji i kada se plaća

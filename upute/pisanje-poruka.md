@@ -14,4 +14,5 @@
 - Podatke koje ne znaš ostavi kao `[oznaka u uglatim zagradama]` i ispod nacrta napiši što treba upisati.
 - Ispod nacrta najviše jedna do dvije rečenice napomene: što zamijeniti, što bi još vrijedilo dodati ili što očekivati u odgovoru.
 - Kad korisnik pošalje vlastitu verziju na lekturu: ispravi pravopis, dijakritike, padeže i red riječi, zadrži njegov stil i strukturu, i kratko navedi što si promijenio.
-- Kad stigne odgovor na poruku: navedi koja su pitanja odgovorena, koja djelomično, a koja nisu, i ažuriraj odgovarajuće dokumente.
+- Svaku pripremljenu poruku upiši u Kontakti i komunikacija sa statusom „Pripremljeno” i promijeni ga kad korisnik potvrdi slanje (vidi [tijek-razgovora.md](tijek-razgovora.md)).
+- Kad stigne odgovor na poruku: upiši ga u Kontakti i komunikacija, navedi koja su pitanja odgovorena, koja djelomično, a koja nisu, i ažuriraj odgovarajuće dokumente.

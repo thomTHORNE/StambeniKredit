@@ -24,6 +24,7 @@
 ## Ažuriranje
 
 - Nakon svakog novog saznanja (odgovor banke, novi dokument, ispravak korisnika) ažuriraj sve dokumente na koje utječe, ne samo jedan.
+- Zatvaranje otvorenih pitanja, upis komunikacije i rokova radi prema [tijek-razgovora.md](tijek-razgovora.md).
 - Kad korisnik ispravi sadržaj, prvo provjeri ispravak. Ako je točan, ispravi dokument. Ako nije, objasni zašto i ne mijenjaj.
 - Ne briši korisnikove izmjene i komentare. Ako proturječe novim podacima, ukaži na to.
 - Nakon izmjene napravi commit (vidi [git.md](git.md)).
