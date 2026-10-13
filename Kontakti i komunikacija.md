@@ -27,9 +27,10 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
+| 13. 10. 2026. | **Pripremljeno:** mail s četiri pitanja (energetski certifikat, dokaz o stabilnosti kuće i tla, vlasništvo i plodouživanje, točna provizija) i traženim odredbama predugovora (kapara kao dio cijene i učešća, povrat kapare ako kredit ne bude odobren ili je procjena ispod praga, rok). Iznos kapare, prag procjene i rok još treba upisati. Potvrditi slanje. |
 | 12. 10. 2026. | Analizirana dokumentacija; utvrđeno da ne postoji dokaz o analizi statičara. Predloženo pitati agenta za dokaz o stabilnosti i za vlasničke odnose (nije još poslano). |
 | 12. 10. 2026. | Primljena dokumentacija kuće: rješenje o izvedenom stanju, uporabna dozvola, geodetski snimak, arhitektonski snimak izvedenog stanja. Energetski certifikat još nije stigao. |
-| 9. 10. 2026. | **Pripremljeno:** mail s dva pitanja: uračunava li se kapara u kupoprodajnu cijenu i može li predugovor biti uvjetovan odobrenjem kredita. Potvrditi slanje. |
+| 9. 10. 2026. | Pripremljen mail s dva pitanja (uračunava li se kapara u cijenu, predugovor uvjetovan kreditom). Nije poslan; pitanja su prenesena u mail od 13. 10. |
 | 8. 10. 2026. | Rokov odgovor: kapara je do 10 % cijene i plaća se pri predugovoru; može se ponuditi i manja. Najavio slanje dokumentacije. |
 | prije 8. 10. 2026. | Pregovorima dogovorena cijena 200.000 €. Korisnik više puta izrazio zabrinutost zbog strmine uz kuću; agent je usmeno tvrdio da je prije otprilike 2 godine rađena analiza statičara. |
 
