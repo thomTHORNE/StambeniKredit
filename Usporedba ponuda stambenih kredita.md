@@ -49,7 +49,7 @@ Obje banke daju 3,29 % uz CPI policu, ali se polica plaća različito. Financijs
 | Primjer | 180.000 €: 7.938 – 17.190 € odmah; ušteda na kamati oko 7.200 € kroz 30 god. | 100.000 € na 20 god.: polica 9.127,20 €, EKS 4,22 % (bez CPI 3,81 %); ukupno oko 5.000 € skuplje |
 | Osiguratelj | – | Generali |
 
-Izvori: odgovor HPB-a (9. 10. 2026.), [Zaba – opće informacije o stambenom kreditu (3. 7. 2026.)](https://www.zaba.hr/home/stambeni-kredit), [Zaba – životno osiguranje otplate stambenih kredita](https://www.zaba.hr/home/osiguranje-otplate-stambenih-kredita-generali-osiguranja).
+Izvori: odgovor HPB-a (8. 10. 2026.), [Zaba – opće informacije o stambenom kreditu (3. 7. 2026.)](https://www.zaba.hr/home/stambeni-kredit), [Zaba – životno osiguranje otplate stambenih kredita](https://www.zaba.hr/home/osiguranje-otplate-stambenih-kredita-generali-osiguranja).
 
 ## Otplata u anuitetima ili ratama
 

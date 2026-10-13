@@ -17,7 +17,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 9. 10. 2026. | **Odgovoreno:** Anin odgovor: 3,29 % vrijedi uz CPI policu; ponuda je izrađena uz paket SUPER; poslani uvjeti police osiguranja nekretnine. Otvorena pitanja su u dokumentu HPB ponuda. |
+| 8. 10. 2026. | **Odgovoreno:** Anin odgovor: 3,29 % vrijedi uz CPI policu; ponuda je izrađena uz paket SUPER ili PREMIUM; poslani uvjeti police osiguranja nekretnine. Ponudila izradu otplatnog plana uz CPI ako joj se javi iznos kredita i trajanje osiguranja (10 ili 15 godina). Otvorena pitanja su u dokumentu HPB ponuda. |
 | 7. 10. 2026. | **Poslano:** mail s pitanjima o kamati i statusu klijenta, paketu SUPER i polici osiguranja nekretnine |
 | 7. 10. 2026. | Sastanak u poslovnici; dobivena ponuda i otplatni plan (180.000 €, 3,49 %) |
 | 6. 10. 2026. | Poslan upit o kreditnoj sposobnosti; Ana predložila termin 7. 10. u 9:00, dogovoren termin nakon 12:00 |

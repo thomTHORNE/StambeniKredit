@@ -27,13 +27,13 @@ Ponuda od 3,49 % pretpostavlja paket SUPER ili PREMIUM i ne uključuje policu os
 
 | Uvjet | Što znači | Utjecaj |
 | --- | --- | --- |
-| Paket SUPER (11 €/mj., 132 €/god.) | Banka plaća procjenu nekretnine i solemnizaciju kod javnog bilježnika | Ne mijenja kamatu; bez paketa ta dva troška plaćate sami i EKS raste. Naknada paketa nije u EKS-u. |
+| Paket SUPER (11 €/mj., 132 €/god.) ili PREMIUM | Banka plaća procjenu nekretnine i solemnizaciju kod javnog bilježnika | Ne mijenja kamatu; bez paketa ta dva troška plaćate sami i EKS raste. Naknada paketa nije u EKS-u. |
 | Polica osiguranja otplate (CPI): smrt, bolovanje, nezaposlenost | Jednokratno 4,41 % – 9,55 % iznosa kredita, trajanje 10 ili 15 godina | Uz policu kamata 3,29 % (rata oko 787 €). Na 180.000 € polica stoji 7.938 – 17.190 €, a ušteda na kamati oko 7.200 € kroz 30 godina. |
 | Polica osiguranja nekretnine | Croatia osiguranje, CO imovina – program Standard | 995,40 € za cijeli rok, uključeno u EKS |
 | Maksimalni kredit (LTV 90 %) | Banka uzima nižu vrijednost: kupoprodajnu cijenu ili procjenu (HNB, NN 50/2025, čl. 2. t. 11) | Uz cijenu 200.000 € najviše 180.000 € |
 | Kreditna sposobnost (DSTI 45 %) | Primanja 2.100 € neto | Najveća dopuštena rata 945 €; 807,28 € je unutar granice |
 
-Ana je pojasnila: kamata 3,29 % s web stranice vrijedi uz CPI policu, ne samo uz status klijenta. Financijski se polica ne isplati; njezina vrijednost je zaštita od gubitka prihoda.
+Ana je pojasnila (mail 8. 10. 2026.): kamata 3,29 % s web stranice vrijedi uz CPI policu, ne samo uz status klijenta. Otplatni plan uz 3,29 % nije izradila jer polica nije spomenuta na sastanku; izradit će ga kad joj se javi iznos kredita na koji se ugovara polica i trajanje osiguranja (10 ili 15 godina). Financijski se polica ne isplati; njezina vrijednost je zaštita od gubitka prihoda.
 
 ## Usporedba s drugim bankama
 
@@ -54,13 +54,13 @@ Polica pokriva samo građevinski dio kuće; potres nije pokriven, a poplava samo
 | Potres | nije pokriven; može se doplatiti, franšiza 10 % (min. 597,25 €, maks. 9.954,21 €) osim ako se otkupi |
 | Klizanje tla, privatna odgovornost | samo ako se posebno ugovori |
 
-Nije pokriveno: stvari u kući, gljivice od vlage. Policu sklopljenu na više od 5 godina nije moguće otkazati prije isteka 5 godina.
+Dodatno se mogu ugovoriti potres, privatna odgovornost, lom stakla i slična pokrića (Ana, 8. 10. 2026.). Nije pokriveno: stvari u kući, gljivice od vlage. Policu sklopljenu na više od 5 godina nije moguće otkazati prije isteka 5 godina.
 
 ## Otvorena pitanja za HPB
 
 - [ ] Utječe li status klijenta (plaća na račun u HPB-u) na kamatu ili druge uvjete, ili je to samo uvjet za paket SUPER?
 - [ ] Vrijedi li niža kamata (3,29 %) cijeli rok od 30 godina ili samo dok traje CPI osiguranje (10 ili 15 godina)?
-- [ ] Može li se CPI polica platiti iz iznosa kredita i koliko bi točno stajala za 180.000 €?
+- [ ] Može li se CPI polica platiti iz iznosa kredita i koliko bi točno stajala za 180.000 €? Djelomično: Ana će izraditi izračun kad joj se javi iznos kredita i trajanje osiguranja (10 ili 15 godina); plaćanje iz kredita nije odgovoreno.
 - [ ] Koliko stoji dodatno pokriće za potres (i veće pokriće za poplavu ako je potrebno)?
 - [ ] Imaju li besplatna procjena i solemnizacija iz paketa SUPER gornju granicu iznosa?
 - [ ] Mijenja li se kamata ako nakon odobrenja kredita prijeđem na jeftiniji paket?
