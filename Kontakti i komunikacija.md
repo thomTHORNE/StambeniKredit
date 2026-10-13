@@ -7,7 +7,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | Kontakt | Uloga | Organizacija | Napomena |
 | --- | --- | --- | --- |
 | Ana Gotovac (ranije Marić) | Osobna bankarica | HPB, poslovnica Sesvete | Info telefon HPB-a: 0800 472 472 |
-| Roko | Agent za nekretnine | Dom Ekspert d.o.o. | Posreduje u prodaji kuće |
+| Roko Orehovec | Asistent agenta posredovanja u prometu nekretnina | Dom Ekspert d.o.o. ([domekspert.hr](http://domekspert.hr/)) | Posreduje u prodaji kuće. Mob. 098 905 8981, e-mail u potpisu: roko.orehovec@domekpert.hr (provjeriti: domena se razlikuje od web stranice domekspert.hr). Uredi: Varaždinska 111, Sesvete; Frana Kesterčaneka 2b, Zagreb |
 | Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 12. 10. 2026.) |
 | Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Dala neslužbenu telefonsku ponudu od 3,30 % (9. 10. 2026.) |
 | Ime naknadno | Bankarica | Zagrebačka banka (Zaba) | Izdala ponudu „stambeni kredit za mlade” od 12. 6. 2026.; ime i kontakt korisnik će dostaviti |
@@ -23,7 +23,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | 6. 10. 2026. | Poslan upit o kreditnoj sposobnosti; Ana predložila termin 7. 10. u 9:00, dogovoren termin nakon 12:00 |
 | 2025. | Prvi razgovor o kreditnoj sposobnosti i stambenom kreditu |
 
-## Dom Ekspert – Roko
+## Dom Ekspert – Roko Orehovec
 
 | Datum | Događaj |
 | --- | --- |
