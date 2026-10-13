@@ -37,6 +37,32 @@ Najveći jednokratni izdaci su učešće (20.000 €, kapara uračunata u njega)
 | Energetski certifikat | 0 € | Prodavatelj | Obveza prodavatelja |
 | Selidba, priključci, prepis režija | po potrebi | Vi | Nije uključeno u ukupni iznos |
 
+## Kapara i rizik niže procjene
+
+Ako procjena bude niža od 200.000 €, banka daje 90 % procjene, a razliku do cijene plaćate sami: svakih 10.000 € niže procjene znači 9.000 € više vlastitih sredstava. Kapara pritom ne štiti od tog rizika; štiti ga odredba u predugovoru da se kapara vraća ako je procjena niža od dogovorenog praga.
+
+| Procjena | Kredit (90 % procjene, najviše 180.000 €) | Vlastita sredstva za cijenu | Više od planiranih 20.000 € |
+| --- | --- | --- | --- |
+| 200.000 € | 180.000 € | 20.000 € | 0 € |
+| 195.000 € | 175.500 € | 24.500 € | 4.500 € |
+| 190.000 € | 171.000 € | 29.000 € | 9.000 € |
+| 185.000 € | 166.500 € | 33.500 € | 13.500 € |
+| 180.000 € | 162.000 € | 38.000 € | 18.000 € |
+| 175.000 € | 157.500 € | 42.500 € | 22.500 € |
+
+Prag procjene za povrat kapare: prag = 200.000 € − (rezerva ÷ 0,9), gdje je rezerva iznos koji možete platiti povrh 20.000 € učešća. Primjeri: rezerva 5.000 € → prag oko 194.400 €; 10.000 € → oko 188.900 €; 15.000 € → oko 183.300 €.
+
+Iznos kapare određuje koliko gubite u slučajevima koje odredbe predugovora ne pokrivaju: ako odustanete bez ugovornog razloga (ZOO čl. 304: prodavatelj smije zadržati kaparu) ili ako prodavatelji ne ispune ugovor, pa morate od tri suvlasnika naplatiti dvostruku kaparu. Manja kapara (npr. 5 %, 10.000 €) znači manju izloženost; ostatak učešća plaća se najkasnije do isplate kredita, a banke kaparu priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.). Veća kapara (10 %) prodavateljima je jači znak ozbiljnosti.
+
+Odredbe koje treba tražiti u predugovoru (navesti u mailu agentu):
+
+- kapara se uračunava u kupoprodajnu cijenu i smatra se dijelom učešća;
+- ako je procjena banke niža od [prag, odlučiti], kapara se vraća u cijelosti (ili, po vašem izboru, cijena se smanjuje na procijenjenu vrijednost);
+- ako kredit ne bude odobren, kapara se vraća u cijelosti;
+- rok do kojeg moraju biti poznati procjena i odluka o kreditu.
+
+Izvor: ZOO čl. 303 i 304 ([RRiF – Porezni tretman kapare](https://www.rrif.hr/porezni_tretman_kapare-3865-misljenje/)). Predugovor prije potpisa treba pregledati pravnik ili javni bilježnik.
+
 ## Porez na promet nekretnina i povrat
 
 Porez od 6.000 € plaća se odmah, a država ga mladima do 45 godina vraća za prvu nekretninu, u punom ili djelomičnom iznosu. Zahtjev se ne podnosi preko e-Građana, nego Agenciji za pravni promet i posredovanje nekretninama (APN). Sve upute su na gov.hr: [Povrat poreza mladima za kupnju prve stambene nekretnine](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757).
@@ -106,7 +132,8 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 ## Što još treba potvrditi
 
 - [x] Kupoprodajna cijena: dogovorena 200.000 €
-- [ ] Iznos kapare (do 10 %, može i manje)
+- [ ] Iznos kapare (do 10 %, može i manje); vidi odjeljak Kapara i rizik niže procjene
+- [ ] Rezerva povrh 20.000 € učešća i iz nje prag procjene za povrat kapare
 - [ ] Provizija Dom Eksperta: postotak, je li s PDV-om, kada dospijeva
 - [ ] Kvadratura kuće i prosječna cijena m² u Zelini (MPGI kalkulator) za izračun povrata poreza
 - [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat)
