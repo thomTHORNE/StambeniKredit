@@ -49,7 +49,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 13. 10. 2026. | **Pripremljeno:** upit o povratu poreza: kako se dokazuje izvanbračna zajednica (bez zajedničkog prebivališta do kupnje), koja se površina kuće uzima za izračun, i vrijede li isti uvjeti nakon Zakona o priuštivom stanovanju (NN 45/2026). Potvrditi slanje. |
+| 13. 10. 2026. | **Poslano:** upit o povratu poreza: kako se dokazuje izvanbračna zajednica (bez zajedničkog prebivališta do kupnje), može li partnerica koja nije suvlasnica biti članica uže obitelji, koja se površina kuće uzima za izračun, i vrijede li isti uvjeti nakon Zakona o priuštivom stanovanju (NN 45/2026). |
 
 ## Zagrebačka banka
 
