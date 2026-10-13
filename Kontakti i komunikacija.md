@@ -48,7 +48,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| datum nije zabilježen | Neslužbena telefonska ponuda: kamata 3,30 % (iznos, rok i bankarica nisu zabilježeni) |
+| 9. 10. 2026. | Neslužbena telefonska ponuda: kamata 3,30 %, bez besplatne procjene nekretnine (iznos, rok i bankarica nisu zabilježeni) |
 | listopad 2026. | Matea Šuliček: informativna ponuda za 200.000 € uz 3,70 % (bez sudužnika do 183.400 €) |
 | 12. 6. 2026. | Druga bankarica (ime naknadno): informativna ponuda „stambeni kredit za mlade”: 180.000 €, 3,39 % |
 

@@ -12,7 +12,7 @@ Najjeftinija ukupno je HPB-ova ponuda (291.615,45 € za 180.000 €), iako joj 
 | Zaba – kredit za mlade | 12. 6. 2026. | 180.000 € / 360 mj. | 3,39 % | 3,72 % | 797,28 € | 107.335,73 € | 9.182,50 € (osig. od nezgode 144 €/god., osig. nekretnine 150 €/god., procjena 362,50 €) | 296.518,23 € |
 | Zaba – stambeni kredit | listopad 2026. | 200.000 € / 360 mj. | 3,70 % | – | 920,58 € | – | – | 340.049,29 € |
 
-Uvjeti uz ponude: HPB pretpostavlja paket SUPER (banka plaća procjenu i solemnizaciju) i ne uključuje CPI policu; uz CPI policu kamata je 3,29 % (rata oko 787 €), a polica stoji 4,41 – 9,55 % iznosa kredita jednokratno. Zabina ponuda iz listopada je za veći iznos (200.000 €) pa nije izravno usporediva. Zaba je uz to telefonski, neslužbeno ponudila kamatu 3,30 %; nije u tablici dok ne stigne pisana ponuda.
+Uvjeti uz ponude: HPB pretpostavlja paket SUPER (banka plaća procjenu i solemnizaciju) i ne uključuje CPI policu; uz CPI policu kamata je 3,29 % (rata oko 787 €), a polica stoji 4,41 – 9,55 % iznosa kredita jednokratno. Zabina ponuda iz listopada je za veći iznos (200.000 €) pa nije izravno usporediva. Zaba je uz to 9. 10. 2026. telefonski, neslužbeno ponudila kamatu 3,30 %, ali bez besplatne procjene nekretnine (procjenu plaćate sami, kod Zabe 362,50 € u lipanjskoj ponudi); nije u tablici dok ne stigne pisana ponuda.
 
 ## Javno objavljene kamate ostalih banaka
 
