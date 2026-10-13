@@ -18,7 +18,7 @@ KLASA UP/I-361-06/23-02/108, 15. 2. 2023., pravomoćno 14. 3. 2023. Legalizira g
 
 - [ ] **Stabilnost nije provjerena.** Točka 3: „nije provedeno ispitivanje ispunjavanja lokacijskih uvjeta, bitnih zahtjeva za građevinu“, a među njima je i mehanička otpornost i stabilnost.
 - [ ] **Obrazloženje ne odgovara izreci.** Spominje zahtjev Ivane Antolković iz 2018. za zgradu poljoprivredne namjene na k.č. 2392/10 u Kalinju. Pitati agenta je li to pogreška u rješenju i treba li ispravak.
-- [ ] **Površine se ne slažu.** Tlocrtna površina 140,03 m², a ukupna bruto 129,97 m², iako kuća ima dvije etaže. Vjerojatno pogreška; može utjecati na procjenu i povrat poreza (kvadratura).
+- [ ] **Površine se ne slažu.** Tlocrtna površina 140,03 m², a ukupna bruto 129,97 m², iako kuća ima dvije etaže. Vjerojatno pogreška; može utjecati na procjenu i povrat poreza (kvadratura). Djelomično objašnjeno: 129,97 m² je zbroj iz analitičkog iskaza u snimku izvedenog stanja (prizemlje 97,89 m² + kat 32,08 m², s koeficijentima 0,25 i 0,5 za vanjske površine), dakle obračunska korisna površina, a ne bruto kako piše u rješenju. Za povrat poreza je bitna: s njom kuća prelazi granicu za samca (112,5 m²).
 
 ## 2. Uporabna dozvola
 

@@ -111,7 +111,7 @@ Nakon kupnje treba upisati vlasništvo, platiti porez i prijaviti prebivalište,
 - [ ] Prijava prebivališta na adresi kuće (vi i djevojka)
 - [ ] Prijenos režija na vaše ime: struja, voda, plin, odvoz otpada
 - [ ] Prijava Gradu Svetom Ivanu Zelini za komunalnu naknadu
-- [ ] Zahtjev APN-u za povrat poreza, najkasnije 24 mjeseca od stjecanja vlasništva ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757))
+- [ ] Zahtjev APN-u za povrat poreza, najkasnije 24 mjeseca od sklapanja kupoprodajnog ugovora ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757))
 
 Uz povrat poreza vrijedi obveza: 5 godina od isplate kuću ne smijete prodati ni iznajmiti i u njoj morate imati prebivalište.
 
@@ -127,7 +127,7 @@ Rokovi koje treba pratiti; „provjeriti” znači da rok još nije poznat. Svak
 | Procjena nekretnine | vrijedi 12 mjeseci od izrade | još nije izrađena |
 | Upis vlasništva u zemljišne knjige | 60 dana od stjecanja uvjeta za upis (Zaba: od isplate kredita); nakon toga peterostruka pristojba | nakon kupnje |
 | Porez na promet nekretnina | 15 dana od dostave rješenja Porezne uprave | nakon kupnje |
-| Zahtjev APN-u za povrat poreza | 24 mjeseca od stjecanja vlasništva | nakon kupnje |
+| Zahtjev APN-u za povrat poreza | 24 mjeseca od sklapanja kupoprodajnog ugovora; djevojka do tada mora biti članica uže obitelji (izvanbračna zajednica od najmanje 3 godine ili brak) | nakon kupnje |
 | Obveza nakon povrata poreza | 5 godina bez prodaje, najma i odjave prebivališta | nakon isplate povrata |
 
 ## Povezani dokumenti

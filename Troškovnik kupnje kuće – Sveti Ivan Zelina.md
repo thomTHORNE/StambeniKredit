@@ -17,7 +17,7 @@ Povoljan scenarij pretpostavlja najniže realne iznose, ali ne i besplatne uslug
 | **Ukupno vlastitih sredstava** | **oko 30.540 €** | **oko 37.940 €** |  |
 | **Raspoloživa sredstva** | **38.000 €** | **38.000 €** | 18.000 € vlastite ušteđevine + 10.000 € + 10.000 € posudbe od roditelja |
 | **Ostaje kao rezerva** | **oko 7.460 €** | **oko 60 €** | Za nižu procjenu, selidbu i nepredviđeno |
-| Mogući povrat poreza (APN) | do −6.000 € | do −6.000 € | Isplata nakon kupnje, ne smanjuje potrebna sredstva na dan kupnje |
+| Mogući povrat poreza (APN) | oko −3.981 € | 0 € | Samo ako djevojka u trenutku zahtjeva ulazi kao članica uže obitelji; kao samac nemate pravo jer je kuća prevelika. Isplata nakon kupnje |
 
 Iznosi su procjene prema dosadašnjim saznanjima; točne brojke upisat ćemo kad stignu ponude i ugovori. Porez dospijeva tek nakon rješenja Porezne uprave (obično nekoliko tjedana do mjeseci nakon kupnje), pa se dio može platiti iz primanja u međuvremenu.
 
@@ -78,7 +78,7 @@ Izvor: ZOO čl. 303 i 304 ([RRiF – Porezni tretman kapare](https://www.rrif.hr
 
 ## Porez na promet nekretnina i povrat
 
-Porez od 6.000 € plaća se odmah, a država ga mladima do 45 godina vraća za prvu nekretninu, u punom ili djelomičnom iznosu. Zahtjev se ne podnosi preko e-Građana, nego Agenciji za pravni promet i posredovanje nekretninama (APN). Sve upute su na gov.hr: [Povrat poreza mladima za kupnju prve stambene nekretnine](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757).
+Porez od 6.000 € plaća se odmah, a država ga mladima do 45 godina vraća za prvu nekretninu, ali samo do iznosa izračunatog na propisanu površinu. Za ovu kuću povrat je oko 3.981 € ako zahtjev podnosite s djevojkom kao članicom uže obitelji, a 0 € ako ga podnosite kao samac. Zahtjev se ne podnosi preko e-Građana, nego Agenciji za pravni promet i posredovanje nekretninama (APN). Sve upute su na gov.hr: [Povrat poreza mladima za kupnju prve stambene nekretnine](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757).
 
 **Uvjeti (prema gov.hr i APN-u):**
 
@@ -89,15 +89,32 @@ Porez od 6.000 € plaća se odmah, a država ga mladima do 45 godina vraća za 
 - cijena po m² nije viša od 50 % iznad prosječne cijene u Gradu Svetom Ivanu Zelini (MPGI tablice)
 - porez je u cijelosti plaćen prije zahtjeva
 - izvanbračni partneri podnose jedan zahtjev; jedan je podnositelj, drugi član obitelji
+- korisna površina nije veća od 50 % iznad propisane površine (inače nema prava na povrat)
+- svi uvjeti, i sastav obitelji, procjenjuju se u trenutku podnošenja zahtjeva
 - niste koristili subvencionirani stambeni kredit ni drugu državnu potporu za stan
 
-**Iznos:** povrat se računa na propisanu površinu, a ne nužno na cijelu kuću. Za dvije osobe propisana površina stana je 65 m², a za kuću je 50 % veća (oko 97,5 m²). Povrat ≈ 3 % × propisana površina × prosječna cijena m² u Zelini, najviše 6.000 €. Točan iznos treba izračunati MPGI kalkulatorom kad znamo kvadraturu kuće.
+**Iznos:** povrat = 3 % × propisana površina × prosječna cijena m² u Zelini (ili ugovorena cijena po m², ako je niža), najviše plaćeni porez. Za kuću se propisane površine stana uvećavaju za 50 %.
 
-**Rok:** 24 mjeseca od stjecanja vlasništva. Zahtjev se podnosi na propisanom obrascu s izjavom, kupoprodajnim ugovorom, potvrdom o plaćenom porezu i potvrdom o prebivalištu.
+| | Samac | Dvije osobe |
+| --- | --- | --- |
+| Propisana površina za kuću | 75 m² | 97,5 m² |
+| Najveća dopuštena korisna površina (+50 %) | 112,5 m² | 146,25 m² |
+| Korisna površina ove kuće | 129,97 m² | 129,97 m² |
+| Pravo na povrat | **ne** (kuća je veća od 112,5 m²) | **da** |
+| Prosječna cijena m² u Zelini (ugovori iz 2026.) | 1.361 € | 1.361 € |
+| Ugovorena cijena po m² (200.000 € ÷ 129,97 m²) | 1.539 € | 1.539 € |
+| Uvjet cijene: najviše 1,5 × 1.361 = 2.041,50 €/m² | ispunjen | ispunjen |
+| **Povrat** | **0 €** | **3 % × 97,5 × 1.361 € = oko 3.981 €** |
+
+Korisna površina 129,97 m² je iz rješenja o izvedenom stanju i analitičkog iskaza u snimku izvedenog stanja (prizemlje 97,89 m² + kat 32,08 m², s koeficijentima za terase i balkone). Koju površinu APN uzima, treba potvrditi kod APN-a. Ako se ugovor sklopi 2027., primjenjuje se prosječna cijena za 2027.
+
+**Djevojka kao članica uže obitelji.** Članovi uže obitelji su bračni ili izvanbračni drug, životni partner, neformalni životni partner i djeca. Izvanbračna zajednica prema Obiteljskom zakonu traje najmanje tri godine (ili kraće ako imate zajedničko dijete). Ako živite zajedno tri godine ili dulje, djevojka je već izvanbračna družica i vjenčanje za povrat nije potrebno; treba pitati APN kako se to dokazuje. Ako ne, vjenčanje prije podnošenja zahtjeva ispunjava uvjet, jer se sastav obitelji gleda u trenutku zahtjeva, a ne kupnje. U oba slučaja djevojka mora imati prijavljeno prebivalište u kući i stvarno živjeti ondje, a ne smije posjedovati ni ranije posjedovati odgovarajuću nekretninu. Brak ima i imovinske posljedice (otplata kredita iz plaće tijekom braka može postati dijelom bračne stečevine), pa vrijedi razmisliti o bračnom ugovoru.
+
+**Rok:** 24 mjeseca od dana sklapanja kupoprodajnog ugovora (Zakon o društveno poticanoj stanogradnji, čl. 30.e). Zahtjev se podnosi na propisanom obrascu s izjavom, kupoprodajnim ugovorom, potvrdom o plaćenom porezu i potvrdom o prebivalištu.
 
 **Obveza:** ako u 5 godina od isplate prodate ili iznajmite kuću, odselite ili odjavite prebivalište, potporu vraćate sa zateznim kamatama.
 
-Izvori: [gov.hr – Povrat poreza mladima](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757?lang=hr), [APN – pitanja i odgovori](https://apn.hr/povrat-poreza/pitanja-i-odgovori/), [Pravilnik, NN 86/2025](https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_86_1177.html).
+Izvori: [Zakon o izmjenama i dopunama Zakona o društveno poticanoj stanogradnji, NN 72/2025, čl. 30.c – 30.f](https://narodne-novine.nn.hr/clanci/sluzbeni/full/2025_04_72_938.html), [gov.hr – Povrat poreza mladima](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757?lang=hr), [APN – pitanja i odgovori](https://apn.hr/povrat-poreza/pitanja-i-odgovori/), [APN – prosječne cijene stanova 2026.](https://apn.hr/povrat-poreza/prosjecne-cijene-stanova-2026/), [Pravilnik, NN 86/2025](https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_86_1177.html). APN: apn@apn.hr, 01 6331 600.
 
 ## Grad Sveti Ivan Zelina
 
@@ -140,7 +157,7 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 5. **Upis u zemljišne knjige** – oko 35 – 70 € pristojbi; prijedlog najkasnije 60 dana od stjecanja uvjeta za upis, inače peterostruka pristojba.
 6. **Rješenje Porezne uprave** – 6.000 € poreza u roku 15 dana od dostave rješenja.
 7. **Prijava prebivališta** – na adresi kuće; uvjet za povrat poreza i oslobađanje od godišnjeg poreza.
-8. **Zahtjev APN-u** – povrat poreza, najkasnije 24 mjeseca od stjecanja vlasništva ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757)).
+8. **Zahtjev APN-u** – povrat poreza, najkasnije 24 mjeseca od sklapanja kupoprodajnog ugovora ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757)).
 
 ## Što još treba potvrditi
 
@@ -148,8 +165,9 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 - [ ] Iznos kapare (do 10 %, može i manje); vidi odjeljak Kapara i rizik niže procjene
 - [ ] Prag procjene za povrat kapare: izračunat raspon oko 191.700 – 199.900 € (ovisi o proviziji agencije i ostalim troškovima); konačan prag odlučuje korisnik
 - [ ] Provizija Dom Eksperta: postotak, je li s PDV-om, kada dospijeva
-- [ ] Kvadratura kuće i prosječna cijena m² u Zelini (MPGI kalkulator) za izračun povrata poreza
-- [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat)
+- [x] Kvadratura kuće i prosječna cijena m² u Zelini za izračun povrata poreza: 129,97 m² (rješenje i snimak izvedenog stanja), 1.361 €/m² za ugovore iz 2026. (APN)
+- [ ] Potvrditi s APN-om koju površinu kuće uzimaju i kako se dokazuje izvanbračna zajednica
+- [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat); živite li zajedno najmanje tri godine (izvanbračna zajednica) ili planirate vjenčanje prije zahtjeva
 - [ ] Tko sastavlja kupoprodajni ugovor i koliko stoji javni bilježnik (kupoprodajni ugovor, ugovor o kreditu, zadužnica)
 - [ ] Cijena procjene nekretnine u banci koju odaberete
 - [ ] Ponuda statičara ili geotehničara, ako prodavatelji nemaju nalaz
