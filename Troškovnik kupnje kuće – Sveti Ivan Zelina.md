@@ -15,6 +15,8 @@ Za kuću od 200.000 € treba pripremiti oko **30.100 – 34.500 € vlastitih s
 | Interkalarna kamata | 0 – oko 520 € | Ovisi o danu isplate kredita |
 | **Ukupno vlastitih sredstava** | **oko 30.100 – 34.500 €** |  |
 | Mogući povrat poreza (APN) | do −6.000 € | Isplata nakon kupnje, ne smanjuje potrebna sredstva na dan kupnje |
+| **Raspoloživa sredstva** | **38.000 €** | 18.000 € vlastite ušteđevine + 10.000 € + 10.000 € posudbe od roditelja |
+| **Ostaje kao rezerva** | **oko 3.500 – 7.900 €** | Raspoloživo umanjeno za potrebna vlastita sredstva |
 
 Iznosi su procjene prema dosadašnjim saznanjima; točne brojke upisat ćemo kad stignu ponude i ugovori.
 
@@ -51,6 +53,8 @@ Ako procjena bude niža od 200.000 €, banka daje 90 % procjene, a razliku do c
 | 175.000 € | 157.500 € | 42.500 € | 22.500 € |
 
 Prag procjene za povrat kapare: prag = 200.000 € − (rezerva ÷ 0,9), gdje je rezerva iznos koji možete platiti povrh 20.000 € učešća. Primjeri: rezerva 5.000 € → prag oko 194.400 €; 10.000 € → oko 188.900 €; 15.000 € → oko 183.300 €.
+
+Uz raspoloživih 38.000 € i ostale troškove od 10.100 – 14.500 € (porez, agencija, javni bilježnik, interkalarna kamata) za cijenu ostaje 23.500 – 27.900 €, dakle rezerva 3.500 – 7.900 €. Prag procjene je tada **oko 196.100 €** (ako ostali troškovi budu na gornjoj granici) do **oko 191.200 €** (na donjoj). Ispod tog praga kupnja nije financijski izvediva bez dodatnog novca ili niže cijene. Točnije će se znati kad se potvrdi provizija agencije (najveća nepoznanica, 4.000 – 7.500 €).
 
 Iznos kapare određuje koliko gubite u slučajevima koje odredbe predugovora ne pokrivaju: ako odustanete bez ugovornog razloga (ZOO čl. 304: prodavatelj smije zadržati kaparu) ili ako prodavatelji ne ispune ugovor, pa morate od tri suvlasnika naplatiti dvostruku kaparu. Manja kapara (npr. 5 %, 10.000 €) znači manju izloženost; ostatak učešća plaća se najkasnije do isplate kredita, a banke kaparu priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.). Veća kapara (10 %) prodavateljima je jači znak ozbiljnosti.
 
@@ -133,7 +137,7 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 
 - [x] Kupoprodajna cijena: dogovorena 200.000 €
 - [ ] Iznos kapare (do 10 %, može i manje); vidi odjeljak Kapara i rizik niže procjene
-- [ ] Rezerva povrh 20.000 € učešća i iz nje prag procjene za povrat kapare
+- [ ] Prag procjene za povrat kapare: izračunat raspon oko 191.200 – 196.100 € (ovisi o proviziji agencije); konačan prag odlučuje korisnik
 - [ ] Provizija Dom Eksperta: postotak, je li s PDV-om, kada dospijeva
 - [ ] Kvadratura kuće i prosječna cijena m² u Zelini (MPGI kalkulator) za izračun povrata poreza
 - [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat)
