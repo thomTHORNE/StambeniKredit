@@ -38,7 +38,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 13. 10. 2026. | **Pripremljeno:** kratak mail s ispravkom: Zabina neslužbena telefonska ponuda je 3,30 %, a ne 3,40 % kako je rečeno u razgovoru 12. 10. Potvrditi slanje. |
+| 13. 10. 2026. | **Poslano:** kratak mail s ispravkom: Zabina neslužbena telefonska ponuda je 3,30 %, a ne 3,40 % kako je rečeno u razgovoru 12. 10. |
 | 12. 10. 2026. | **Odgovoreno (telefonom):** Tijana usmeno potvrdila: banke priznaju kaparu kao dio učešća; Kompare je za podnositelja besplatan; banka koja je izdala ponudu (preko bilo koga) ne može dati novu ponudu 30 dana. O drugim pogodnostima i subvencijama te o CPI polici nema novih saznanja. Korisnik je spomenuo Zabinu neslužbenu telefonsku ponudu kao 3,40 % (pogrešno, točno je 3,30 %). Detalji u dokumentima Troškovnik kupnje kuće i Usporedba ponuda stambenih kredita. |
 | 12. 10. 2026. | **Poslano:** mail s dokumentacijom (6 platnih lista, JOPPD, potvrda Porezne uprave o dohotku, dokumentacija kuće) i pet pitanja: kako se Kompare naplaćuje, ostaje li mogućnost osobnog traženja ponuda, druge pogodnosti osim povrata poreza, priznaju li banke kaparu kao učešće, mogućnosti i način plaćanja CPI police. |
 | 8. 10. 2026. | Tijanin mail s popisom potrebne dokumentacije za provjeru kreditne sposobnosti |
