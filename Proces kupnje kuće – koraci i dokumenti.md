@@ -108,7 +108,7 @@ Nakon kupnje treba upisati vlasništvo, platiti porez i prijaviti prebivalište,
 - [ ] Upis vlasništva i hipoteke banke u zemljišne knjige (obično preko javnog bilježnika)
 - [ ] Prijava poreza na promet: javni bilježnik dostavlja ugovor Poreznoj upravi
 - [ ] Plaćanje poreza na promet nekretnina (6.000 €) u roku 15 dana od rješenja
-- [ ] Prijava prebivališta na adresi kuće (vi i djevojka)
+- [ ] Prijava prebivališta na adresi kuće (vi i djevojka); bez toga djevojka ne ulazi u zahtjev za povrat poreza, a kao samac nemate pravo na povrat. Prije prijave razjasniti adresu (Pretoki 23A ili 24)
 - [ ] Prijenos režija na vaše ime: struja, voda, plin, odvoz otpada
 - [ ] Prijava Gradu Svetom Ivanu Zelini za komunalnu naknadu
 - [ ] Zahtjev APN-u za povrat poreza, najkasnije 24 mjeseca od sklapanja kupoprodajnog ugovora ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757))

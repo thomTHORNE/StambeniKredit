@@ -156,7 +156,7 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 4. **Isplata kredita** – banka plaća 180.000 € prodavateljima; prije isplate police osiguranja (prva godina 33 – 300 €); moguća interkalarna kamata do oko 520 €.
 5. **Upis u zemljišne knjige** – oko 35 – 70 € pristojbi; prijedlog najkasnije 60 dana od stjecanja uvjeta za upis, inače peterostruka pristojba.
 6. **Rješenje Porezne uprave** – 6.000 € poreza u roku 15 dana od dostave rješenja.
-7. **Prijava prebivališta** – na adresi kuće; uvjet za povrat poreza i oslobađanje od godišnjeg poreza.
+7. **Prijava prebivališta** – vi i djevojka na adresi kuće; uvjet za povrat poreza (potvrda ne starija od 30 dana pri zahtjevu) i oslobađanje od godišnjeg poreza. Prije toga razjasniti adresu (katastar Pretoki 23A, ostali dokumenti Pretoki 24).
 8. **Zahtjev APN-u** – povrat poreza, najkasnije 24 mjeseca od sklapanja kupoprodajnog ugovora ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757)).
 
 ## Što još treba potvrditi
@@ -167,7 +167,9 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 - [ ] Provizija Dom Eksperta: postotak, je li s PDV-om, kada dospijeva
 - [x] Kvadratura kuće i prosječna cijena m² u Zelini za izračun povrata poreza: 129,97 m² (rješenje i snimak izvedenog stanja), 1.361 €/m² za ugovore iz 2026. (APN)
 - [ ] Potvrditi s APN-om koju površinu kuće uzimaju i kako se dokazuje izvanbračna zajednica
-- [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat); živite li zajedno najmanje tri godine (izvanbračna zajednica) ili planirate vjenčanje prije zahtjeva
+- [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat)
+- [x] Živite li zajedno najmanje tri godine: da, više od tri godine (korisnik, 13. 10. 2026.), pa je djevojka izvanbračna družica i vjenčanje za povrat nije potrebno. Prebivalište još nije zajedničko; oboje ga prijavljujete na adresi kuće prije zahtjeva APN-u
+- [ ] Prikupiti dokaze o zajedničkom životu dulje od tri godine (npr. ugovor o najmu, računi, pošta na istu adresu), za slučaj da ih APN zatraži
 - [ ] Tko sastavlja kupoprodajni ugovor i koliko stoji javni bilježnik (kupoprodajni ugovor, ugovor o kreditu, zadužnica)
 - [ ] Cijena procjene nekretnine u banci koju odaberete
 - [ ] Ponuda statičara ili geotehničara, ako prodavatelji nemaju nalaz
