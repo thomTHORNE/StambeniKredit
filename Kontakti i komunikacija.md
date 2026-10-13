@@ -49,6 +49,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
+| 13. 10. 2026. | **Odgovoreno:** APN: dokaz izvanbračne zajednice ne traže, dovoljno je navesti partnericu u zahtjevu kao članicu uže obitelji; članica može biti i osoba koja nije suvlasnica, ako živi na istoj adresi. Neto površina kuće dokazuje se dokumentom iz pitanja 29 na apn.hr (npr. rješenje o legalizaciji, procjena, nalaz ovlaštenog inženjera). Uvjeti i izračun su na stranici Uvjeti za ostvarivanje mjere. Detalji u dokumentu Troškovnik kupnje kuće. |
 | 13. 10. 2026. | **Poslano:** upit o povratu poreza: kako se dokazuje izvanbračna zajednica (bez zajedničkog prebivališta do kupnje), može li partnerica koja nije suvlasnica biti članica uže obitelji, koja se površina kuće uzima za izračun, i vrijede li isti uvjeti nakon Zakona o priuštivom stanovanju (NN 45/2026). |
 
 ## Zagrebačka banka
