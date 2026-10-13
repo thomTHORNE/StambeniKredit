@@ -51,7 +51,7 @@ Predugovor je prvi ugovor koji potpisujete: obje strane se obvezuju sklopiti kup
 - [ ] Uplata kapare prodavateljici
 - [ ] Predaja predugovora banci
 
-**Što predugovor mora sadržavati**
+**Što predugovor mora sadržavati** (detaljno, uz analizu oglednog primjerka: Predugovor – sadržaj i odredbe)
 
 - Kupoprodajnu cijenu (200.000 €) i točan opis nekretnine (katastarska čestica, ZK uložak)
 - Iznos kapare (do 10 %, može i manje) i odredbu da se **kapara uračunava u kupoprodajnu cijenu**; banke tada kaparu priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.)

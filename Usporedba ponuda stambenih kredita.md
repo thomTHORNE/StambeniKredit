@@ -26,7 +26,7 @@ Od ostalih banaka još nema ponuda; ovo su fiksne kamate za cijeli rok s njihovi
 | Erste | 3,45 % | oko 803 € | Status klijenta, od 1. 10. 2026.; ostali 3,75 % |
 | PBZ | 3,38 – 3,58 % | oko 796 – 816 € | Ovisno o riziku i LTV-u |
 
-Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u tablicu Dobivene ponude.
+Kompare 13. 10. 2026. traži prvu ponudu od PBZ-a; Tijana očekuje kamatu nižu od 3 %. Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u tablicu Dobivene ponude.
 
 ## Pravilo od 30 dana za nove ponude
 
