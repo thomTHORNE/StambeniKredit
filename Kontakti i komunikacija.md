@@ -11,6 +11,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 12. 10. 2026.) |
 | Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Dala neslužbenu telefonsku ponudu od 3,30 % (9. 10. 2026.) |
 | Ime naknadno | Bankarica | Zagrebačka banka (Zaba) | Izdala ponudu „stambeni kredit za mlade” od 12. 6. 2026.; ime i kontakt korisnik će dostaviti |
+| APN | Državna agencija za povrat poreza mladima | Agencija za pravni promet i posredovanje nekretninama | apn@apn.hr, 01 6331 600; Savska cesta 41, Zagreb |
 | Prodavatelji | Vlasnici kuće | – | Vlasnički odnosi su u dokumentu Dokumentacija kuće – otvorena pitanja |
 
 ## HPB – Ana Gotovac
@@ -43,6 +44,12 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | 12. 10. 2026. | **Poslano:** mail s dokumentacijom (6 platnih lista, JOPPD, potvrda Porezne uprave o dohotku, dokumentacija kuće) i pet pitanja: kako se Kompare naplaćuje, ostaje li mogućnost osobnog traženja ponuda, druge pogodnosti osim povrata poreza, priznaju li banke kaparu kao učešće, mogućnosti i način plaćanja CPI police. |
 | 8. 10. 2026. | Tijanin mail s popisom potrebne dokumentacije za provjeru kreditne sposobnosti |
 | 8. 10. 2026. | Telefonski razgovor; dogovoreno da korisnik dostavi dokumentaciju za provjeru kreditne sposobnosti |
+
+## APN
+
+| Datum | Događaj |
+| --- | --- |
+| 13. 10. 2026. | **Pripremljeno:** upit o povratu poreza: kako se dokazuje izvanbračna zajednica (bez zajedničkog prebivališta do kupnje), koja se površina kuće uzima za izračun, i vrijede li isti uvjeti nakon Zakona o priuštivom stanovanju (NN 45/2026). Potvrditi slanje. |
 
 ## Zagrebačka banka
 
