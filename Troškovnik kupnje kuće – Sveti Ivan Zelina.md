@@ -24,8 +24,8 @@ Najveći jednokratni izdaci su učešće (20.000 €, kapara uračunata u njega)
 
 | Trošak | Iznos | Tko plaća / kome | Napomena |
 | --- | --- | --- | --- |
-| Kapara | do 20.000 € (do 10 %) | Vi → prodavatelju, pri predugovoru | Ne ide preko banke; osigurava kupnju kod prodavatelja. Pri kupnji se obično uračunava u cijenu (provjeriti u predugovoru) |
-| Učešće (10 % cijene) | 20.000 € | Vi → prodavatelju | Vaših 10 % uz 90 % koje isplaćuje banka; ako se kapara uračunava u cijenu, doplaćujete 20.000 € − kapara |
+| Kapara | do 20.000 € (do 10 %) | Vi → prodavatelju, pri predugovoru | Ne ide preko banke; osigurava kupnju kod prodavatelja. Banke je priznaju kao dio učešća (Kompare, usmeno 13. 10. 2026.), ako se uračunava u cijenu (to mora pisati u predugovoru) |
+| Učešće (10 % cijene) | 20.000 € | Vi → prodavatelju | Vaših 10 % uz 90 % koje isplaćuje banka. Kapara od 10 % pokriva cijelo učešće; ako je manja, razliku (20.000 € − kapara) plaćate najkasnije do isplate kredita |
 | Kredit | 180.000 € | HPB → prodavatelju | Banka uzima nižu od cijene i procjene |
 | Porez na promet nekretnina | 6.000 € (3 % od 200.000 €) | Vi → Porezna uprava, 15 dana od rješenja | Nema ga ako se kupuje novogradnja s PDV-om |
 | Agencijska provizija (Dom Ekspert) | 4.000 – 6.000 € (2–3 %) | Vi → agenciji | Provjeriti je li iznos s PDV-om; s PDV-om 5.000 – 7.500 € |
@@ -113,7 +113,7 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 - [ ] Tko sastavlja kupoprodajni ugovor i koliko stoji javni bilježnik
 - [ ] Iznos sudske pristojbe za upis u zemljišne knjige
 - [ ] Komunalna naknada za kuću (Grad Sveti Ivan Zelina)
-- [ ] Ima li Grad ili Zagrebačka županija potporu za mlade pri kupnji
+- [ ] Ima li Grad ili Zagrebačka županija potporu za mlade pri kupnji (Kompare 13. 10.: nema novih saznanja o pogodnostima ni subvencijama)
 - [x] Ima li kuća uporabnu dozvolu ili rješenje o izvedenom stanju: kuća ima rješenje o izvedenom stanju (vidi Dokumentacija kuće – otvorena pitanja)
 - [ ] Režije prethodnih 12 mjeseci od prodavatelja
 - [ ] Cijena dodatnog osiguranja od potresa

@@ -52,7 +52,7 @@ Predugovor je prvi ugovor koji potpisujete: obje strane se obvezuju sklopiti kup
 **Što predugovor mora sadržavati**
 
 - Kupoprodajnu cijenu (200.000 €) i točan opis nekretnine (katastarska čestica, ZK uložak)
-- Iznos kapare (do 10 %, može i manje) i odredbu da se **kapara uračunava u kupoprodajnu cijenu**
+- Iznos kapare (do 10 %, može i manje) i odredbu da se **kapara uračunava u kupoprodajnu cijenu**; banke tada kaparu priznaju kao dio učešća (Kompare, usmeno 13. 10. 2026.)
 - Uvjet da je kupnja **uvjetovana odobrenjem stambenog kredita** i da se kapara vraća ako kredit nije odobren
 - Rok za sklapanje kupoprodajnog ugovora (ostaviti dovoljno vremena za kredit, npr. 60 – 90 dana)
 - Način isplate: kapara, učešće i iznos koji isplaćuje banka
@@ -119,6 +119,7 @@ Rokovi koje treba pratiti; „provjeriti” znači da rok još nije poznat. Svak
 | Dokument ili postupak | Rok | Stanje |
 | --- | --- | --- |
 | HPB ponuda (7. 10. 2026.) | provjeriti do kada vrijedi | otvoreno |
+| Nova ponuda iste banke | 30 dana od prethodne ponude (Kompare, usmeno); HPB ne prije oko 6. 11. 2026., Zaba 30 dana od listopadske ponude | provjeriti datum Zabine ponude |
 | Predugovor | rok za sklapanje kupoprodajnog ugovora dogovara se u predugovoru | provjeriti pri izradi |
 | Procjena nekretnine | vrijedi 12 mjeseci od izrade | još nije izrađena |
 | Porez na promet nekretnina | 15 dana od dostave rješenja Porezne uprave | nakon kupnje |

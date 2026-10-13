@@ -28,6 +28,14 @@ Od ostalih banaka još nema ponuda; ovo su fiksne kamate za cijeli rok s njihovi
 
 Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u tablicu Dobivene ponude.
 
+## Pravilo od 30 dana za nove ponude
+
+Banka koja je već izdala ponudu ne može izdati novu u roku od 30 dana, bez obzira na to tko ju je zatražio (korisnik, Kompare ili druga institucija). Izvor: Tijana Salajić (Kompare), usmeno 13. 10. 2026.; nije provjereno u bankama ni u pisanom izvoru.
+
+- HPB: ponuda od 7. 10. 2026., nova ne prije oko 6. 11. 2026.
+- Zaba: ponuda iz listopada 2026., točan datum nije zabilježen; nova ne prije 30 dana od tog datuma.
+- Ostale banke (Karlovačka, RBA, OTP, Erste, PBZ): još nisu izdale ponudu, pa ih Kompare može tražiti odmah.
+
 ## Polica osiguranja otplate kredita (CPI)
 
 Obje banke daju 3,29 % uz CPI policu, ali se polica plaća različito. Financijski se ni u jednoj ne isplati; njezina vrijednost je zaštita od gubitka prihoda.
