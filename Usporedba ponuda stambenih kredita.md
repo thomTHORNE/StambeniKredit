@@ -10,9 +10,9 @@ Najjeftinija ukupno je HPB-ova ponuda (291.615,45 € za 180.000 €), iako joj 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HPB – Super stambeni (HPB ponuda – stambeni kredit) | 7. 10. 2026. | 180.000 € / 360 mj. | 3,49 % | 3,58 % | 807,28 € | 110.618,05 € | 997,40 € (polica nekretnine, nalog) | 291.615,45 € |
 | Zaba – kredit za mlade | 12. 6. 2026. | 180.000 € / 360 mj. | 3,39 % | 3,72 % | 797,28 € | 107.335,73 € | 9.182,50 € (osig. od nezgode 144 €/god., osig. nekretnine 150 €/god., procjena 362,50 €) | 296.518,23 € |
-| Zaba – stambeni kredit | listopad 2026. | 200.000 € / 360 mj. | 3,70 % | – | 920,58 € | – | – | 340.049,29 € |
+| Zaba – stambeni kredit (izračun u aplikaciji m-zaba) | listopad 2026. | 200.000 € / 360 mj. | 3,70 % | – | 920,58 € | – | – | 340.049,29 € |
 
-Uvjeti uz ponude: HPB pretpostavlja paket SUPER (banka plaća procjenu i solemnizaciju) i ne uključuje CPI policu; uz CPI policu kamata je 3,29 % (rata oko 787 €), a polica stoji 4,41 – 9,55 % iznosa kredita jednokratno. Zabina ponuda iz listopada je za veći iznos (200.000 €) pa nije izravno usporediva. Zaba je uz to 9. 10. 2026. telefonski, neslužbeno ponudila kamatu 3,30 %, ali bez besplatne procjene nekretnine (procjenu plaćate sami, kod Zabe 362,50 € u lipanjskoj ponudi); nije u tablici dok ne stigne pisana ponuda.
+Uvjeti uz ponude: HPB pretpostavlja paket SUPER (banka plaća procjenu i solemnizaciju) i ne uključuje CPI policu; uz CPI policu kamata je 3,29 % (rata oko 787 €), a polica stoji 4,41 – 9,55 % iznosa kredita jednokratno. Zabin listopadski izračun korisnik je sam izradio u aplikaciji m-zaba; nije ponuda bankarice i za veći je iznos (200.000 €), pa nije izravno usporediv. Zaba je uz to 9. 10. 2026. telefonski, neslužbeno ponudila kamatu 3,30 %, ali bez besplatne procjene nekretnine (procjenu plaćate sami, kod Zabe 362,50 € u lipanjskoj ponudi); nije u tablici dok ne stigne pisana ponuda.
 
 ## Javno objavljene kamate ostalih banaka
 
@@ -33,7 +33,7 @@ Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u 
 Banka koja je već izdala ponudu ne može izdati novu u roku od 30 dana, bez obzira na to tko ju je zatražio (korisnik, Kompare ili druga institucija). Izvor: Tijana Salajić (Kompare), usmeno 12. 10. 2026.; nije provjereno u bankama ni u pisanom izvoru.
 
 - HPB: ponuda od 7. 10. 2026., nova ne prije oko 6. 11. 2026.
-- Zaba: ponuda iz listopada 2026., točan datum nije zabilježen; nova ne prije 30 dana od tog datuma.
+- Zaba: listopadski iznos je izračun iz aplikacije m-zaba, a 3,30 % neslužbena telefonska ponuda od 9. 10. 2026. Nije jasno računa li se išta od toga kao izdana ponuda; ako se računa telefonska, nova ne prije oko 8. 11. 2026. Provjeriti s Kompare ili Mateom Šuliček.
 - Ostale banke (Karlovačka, RBA, OTP, Erste, PBZ): još nisu izdale ponudu, pa ih Kompare može tražiti odmah.
 
 ## Polica osiguranja otplate kredita (CPI)

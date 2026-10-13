@@ -122,7 +122,7 @@ Rokovi koje treba pratiti; „provjeriti” znači da rok još nije poznat. Svak
 | Dokument ili postupak | Rok | Stanje |
 | --- | --- | --- |
 | HPB ponuda (7. 10. 2026.) | provjeriti do kada vrijedi | otvoreno |
-| Nova ponuda iste banke | 30 dana od prethodne ponude (Kompare, usmeno); HPB ne prije oko 6. 11. 2026., Zaba 30 dana od listopadske ponude | provjeriti datum Zabine ponude |
+| Nova ponuda iste banke | 30 dana od prethodne ponude (Kompare, usmeno); HPB ne prije oko 6. 11. 2026.; Zaba ne prije oko 8. 11. 2026. ako se telefonska ponuda od 9. 10. računa kao izdana ponuda | provjeriti vrijedi li pravilo za Zabu (izračun iz aplikacije i neslužbena telefonska ponuda) |
 | Predugovor | rok za sklapanje kupoprodajnog ugovora dogovara se u predugovoru | provjeriti pri izradi |
 | Procjena nekretnine | vrijedi 12 mjeseci od izrade | još nije izrađena |
 | Porez na promet nekretnina | 15 dana od dostave rješenja Porezne uprave | nakon kupnje |
