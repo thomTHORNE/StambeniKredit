@@ -4,40 +4,49 @@ Oct 9, 2026
 
 ## Sažetak
 
-Za kuću od 200.000 € treba pripremiti oko **30.100 – 34.500 € vlastitih sredstava**, a dio poreza (do 6.000 €) može se kasnije vratiti preko APN-a. Kredit pokriva 180.000 € (90 % cijene).
+Za kuću od 200.000 € treba pripremiti oko **30.500 € vlastitih sredstava u povoljnom, a oko 37.900 € u nepovoljnom scenariju**. Uz raspoloživih 38.000 € u nepovoljnom scenariju ne ostaje gotovo nikakva rezerva. Dio poreza (do 6.000 €) može se kasnije vratiti preko APN-a.
 
-| Stavka | Iznos | Napomena |
-| --- | --- | --- |
-| Učešće (10 % cijene) | 20.000 € | Kapara je dio učešća, ne dodatni trošak |
-| Porez na promet nekretnina (3 %) | 6.000 € | Moguć povrat preko APN-a, vidi niže |
-| Agencijska provizija Dom Ekspert (2–3 %) | 4.000 – 6.000 € | + PDV ako ga agencija obračunava: 5.000 – 7.500 € |
-| Javni bilježnik i zemljišne knjige | oko 100 – 500 € | Solemnizaciju kreditnog ugovora plaća HPB uz paket SUPER |
-| Interkalarna kamata | 0 – oko 520 € | Ovisi o danu isplate kredita |
-| **Ukupno vlastitih sredstava** | **oko 30.100 – 34.500 €** |  |
-| Mogući povrat poreza (APN) | do −6.000 € | Isplata nakon kupnje, ne smanjuje potrebna sredstva na dan kupnje |
-| **Raspoloživa sredstva** | **38.000 €** | 18.000 € vlastite ušteđevine + 10.000 € + 10.000 € posudbe od roditelja |
-| **Ostaje kao rezerva** | **oko 3.500 – 7.900 €** | Raspoloživo umanjeno za potrebna vlastita sredstva |
+Povoljan scenarij pretpostavlja najniže realne iznose, ali ne i besplatne usluge koje ovise o neprihvaćenoj ponudi (npr. procjenu i solemnizaciju uz HPB-ov paket SUPER). Nepovoljan scenarij pretpostavlja gornje iznose i da sami plaćate pregled statičara i energetski certifikat.
 
-Iznosi su procjene prema dosadašnjim saznanjima; točne brojke upisat ćemo kad stignu ponude i ugovori.
+| Stavka | Povoljno | Nepovoljno | Napomena |
+| --- | --- | --- | --- |
+| Učešće (10 % cijene) | 20.000 € | 20.000 € | Kapara je dio učešća, ne dodatni trošak |
+| Porez na promet nekretnina (3 %) | 6.000 € | 6.000 € | Moguć povrat preko APN-a, vidi niže |
+| Agencijska provizija Dom Ekspert | 4.000 € | 7.500 € | 2 % bez PDV-a / 3 % + PDV; najveća nepoznanica |
+| Ostali jednokratni troškovi | 543 € | 4.440 € | Procjena, javni bilježnik, zemljišne knjige, osiguranja, statičar i ostalo; razrada u sljedećem odjeljku |
+| **Ukupno vlastitih sredstava** | **oko 30.540 €** | **oko 37.940 €** |  |
+| **Raspoloživa sredstva** | **38.000 €** | **38.000 €** | 18.000 € vlastite ušteđevine + 10.000 € + 10.000 € posudbe od roditelja |
+| **Ostaje kao rezerva** | **oko 7.460 €** | **oko 60 €** | Za nižu procjenu, selidbu i nepredviđeno |
+| Mogući povrat poreza (APN) | do −6.000 € | do −6.000 € | Isplata nakon kupnje, ne smanjuje potrebna sredstva na dan kupnje |
+
+Iznosi su procjene prema dosadašnjim saznanjima; točne brojke upisat ćemo kad stignu ponude i ugovori. Porez dospijeva tek nakon rješenja Porezne uprave (obično nekoliko tjedana do mjeseci nakon kupnje), pa se dio može platiti iz primanja u međuvremenu.
 
 ## Jednokratni troškovi pri kupnji
 
-Najveći jednokratni izdaci su učešće (20.000 €, kapara uračunata u njega), porez (6.000 €) i agencija (4.000 – 7.500 €); ostalo su manji iznosi.
+Osim učešća, poreza i agencije, ostali jednokratni troškovi iznose oko 540 € u povoljnom i oko 4.440 € u nepovoljnom scenariju; najveća stavka u nepovoljnom je pregled statičara ili geotehničara.
 
-| Trošak | Iznos | Tko plaća / kome | Napomena |
-| --- | --- | --- | --- |
-| Kapara | do 20.000 € (do 10 %) | Vi → prodavatelju, pri predugovoru | Ne ide preko banke; osigurava kupnju kod prodavatelja. Banke je priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.), ako se uračunava u cijenu (to mora pisati u predugovoru) |
-| Učešće (10 % cijene) | 20.000 € | Vi → prodavatelju | Vaših 10 % uz 90 % koje isplaćuje banka. Kapara od 10 % pokriva cijelo učešće; ako je manja, razliku (20.000 € − kapara) plaćate najkasnije do isplate kredita |
-| Kredit | 180.000 € | HPB → prodavatelju | Banka uzima nižu od cijene i procjene |
-| Porez na promet nekretnina | 6.000 € (3 % od 200.000 €) | Vi → Porezna uprava, 15 dana od rješenja | Nema ga ako se kupuje novogradnja s PDV-om |
-| Agencijska provizija (Dom Ekspert) | 4.000 – 6.000 € (2–3 %) | Vi → agenciji | Provjeriti je li iznos s PDV-om; s PDV-om 5.000 – 7.500 € |
-| Javni bilježnik – kupoprodajni ugovor | oko 50 – 300 € | Vi | Ovjera potpisa ili solemnizacija; provjeriti tko sastavlja ugovor |
-| Javni bilježnik – ugovor o kreditu | 0 € uz paket SUPER | HPB | Bez paketa plaćate sami |
-| Procjena nekretnine | 0 € uz paket SUPER | HPB | Bez paketa oko 225 – 300 € |
-| Upis vlasništva i hipoteke u zemljišne knjige | manji iznos, provjeriti | Vi | Sudska pristojba |
-| Interkalarna kamata | 0 – oko 520 € | Vi → HPB | Kamata od isplate kredita do prvog anuiteta |
-| Energetski certifikat | 0 € | Prodavatelj | Obveza prodavatelja |
-| Selidba, priključci, prepis režija | po potrebi | Vi | Nije uključeno u ukupni iznos |
+| Trošak | Povoljno | Nepovoljno | Tko plaća / kome | Napomena |
+| --- | --- | --- | --- | --- |
+| Kapara | dio učešća | dio učešća | Vi → prodavateljima, pri predugovoru | Banke je priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.), ako se uračunava u cijenu (to mora pisati u predugovoru) |
+| Učešće (10 % cijene) | 20.000 € | 20.000 € | Vi → prodavateljima | Kapara od 10 % pokriva cijelo učešće; ako je manja, razliku plaćate najkasnije do isplate kredita |
+| Kredit | 180.000 € | 180.000 € | Banka → prodavateljima | Banka uzima nižu od cijene i procjene |
+| Porez na promet nekretnina | 6.000 € | 6.000 € | Vi → Porezna uprava, 15 dana od rješenja | 3 % od 200.000 € |
+| Agencijska provizija (Dom Ekspert) | 4.000 € | 7.500 € | Vi → agenciji | 2–3 %, provjeriti PDV i dospijeće |
+| Procjena nekretnine | 275 € | 400 € | Vi → procjenitelju banke | Zaba 362,50 €, PBZ 275 € (primjer u EKS-u); za kuću može biti skuplje nego za stan. 0 € samo uz HPB-ov paket SUPER |
+| Javni bilježnik – predugovor | 20 € | 50 € | Vi | Ovjera potpisa |
+| Javni bilježnik – kupoprodajni ugovor | 30 € | 300 € | Vi (dogovor s prodavateljima) | Ovjera potpisa prodavatelja ili solemnizacija; tko sastavlja ugovor još nije poznato |
+| Javni bilježnik – ugovor o kreditu, zadužnica, založna izjava | 150 € | 700 € | Vi | Nagrada ovisi o iznosu kredita; 0 € samo uz HPB-ov paket SUPER. Točan iznos pitati javnog bilježnika |
+| Zemljišne knjige – upis vlasništva i hipoteke | 35 € | 70 € | Vi → sud | 6,50 € prijedlog (50 % manje elektronički) + 26,54 € rješenje, po svakom upisu. **Rok 60 dana**, inače peterostruka pristojba |
+| Osiguranja pri isplati kredita (prva godina) | 33 € | 300 € | Vi → osiguratelju | HPB: polica nekretnine oko 33 €/god.; Zaba: nekretnina 150 € + nezgoda 144 € godišnje |
+| Interkalarna kamata | 0 € | 520 € | Vi → banka | Kamata od isplate kredita do prvog anuiteta |
+| Energetski certifikat | 0 € | 300 € | Prodavatelj (obveza) | Banka ga traži za kredit (Zaba izričito). Ako ga prodavatelji ne dostave, možda ćete ga platiti sami; iznos je gruba procjena |
+| Pregled statičara ili geotehničara | 0 € | 1.500 € | Vi | 0 € ako prodavatelji dostave nalaz; inače vlastiti pregled. Gruba procjena bez provjerenog izvora, tražiti ponudu |
+| Pravnik za pregled predugovora i ugovora | 0 € | 300 € | Vi | Preporučeno; gruba procjena |
+| **Ostali jednokratni troškovi ukupno** | **543 €** | **4.440 €** |  | Zbroj od procjene do pravnika |
+| Selidba, priključci, prepis režija | – | – | Vi | Nije uključeno; ide iz rezerve |
+| CPI polica (opcionalno) | – | – | Vi | Nije uključeno; HPB 7.938 – 17.190 € jednokratno |
+
+Izvori: [gov.hr – Upis prava vlasništva](https://www.gov.hr/hr/upis-prava-vlasnistva/1306), Zabin dokument Uvjeti kreditiranja (procjena 362,50 €) i popis dokumentacije za stambeni kredit (energetski certifikat obvezan), [PBZ – opće informacije o stambenom kreditu (1. 4. 2026.)](https://www.pbz.hr/document/documents/PBZ/krediti_stambeni_europodru%C4%8Dje/opce-informacije-euro-podrucje-01042026.pdf), HPB ponuda (7. 10. 2026.). Za nagradu javnog bilježnika nisam našao aktualnu tablicu u eurima; raspon je procjena i treba ga potvrditi.
 
 ## Kapara i rizik niže procjene
 
@@ -54,7 +63,7 @@ Ako procjena bude niža od 200.000 €, banka daje 90 % procjene, a razliku do c
 
 Prag procjene za povrat kapare: prag = 200.000 € − (rezerva ÷ 0,9), gdje je rezerva iznos koji možete platiti povrh 20.000 € učešća. Primjeri: rezerva 5.000 € → prag oko 194.400 €; 10.000 € → oko 188.900 €; 15.000 € → oko 183.300 €.
 
-Uz raspoloživih 38.000 € i ostale troškove od 10.100 – 14.500 € (porez, agencija, javni bilježnik, interkalarna kamata) za cijenu ostaje 23.500 – 27.900 €, dakle rezerva 3.500 – 7.900 €. Prag procjene je tada **oko 196.100 €** (ako ostali troškovi budu na gornjoj granici) do **oko 191.200 €** (na donjoj). Ispod tog praga kupnja nije financijski izvediva bez dodatnog novca ili niže cijene. Točnije će se znati kad se potvrdi provizija agencije (najveća nepoznanica, 4.000 – 7.500 €).
+Uz raspoloživih 38.000 € i troškove osim učešća od oko 10.540 € (povoljno) do 17.940 € (nepovoljno) rezerva je oko 7.460 € do 60 €. Prag procjene je tada **oko 191.700 €** u povoljnom scenariju, a u nepovoljnom **oko 199.900 €**, što znači da bi procjena morala biti praktički jednaka cijeni. Ispod praga kupnja nije financijski izvediva bez dodatnog novca ili niže cijene. Najveći utjecaj imaju agencijska provizija (raspon 3.500 €) i eventualni vlastiti pregled statičara.
 
 Iznos kapare određuje koliko gubite u slučajevima koje odredbe predugovora ne pokrivaju: ako odustanete bez ugovornog razloga (ZOO čl. 304: prodavatelj smije zadržati kaparu) ili ako prodavatelji ne ispune ugovor, pa morate od tri suvlasnika naplatiti dvostruku kaparu. Manja kapara (npr. 5 %, 10.000 €) znači manju izloženost; ostatak učešća plaća se najkasnije do isplate kredita, a banke kaparu priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.). Veća kapara (10 %) prodavateljima je jači znak ozbiljnosti.
 
@@ -125,10 +134,10 @@ Opcionalno: CPI polica (3,29 % umjesto 3,49 %) snižava ratu na oko 787 €, ali
 Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon kupoprodajnog ugovora.
 
 1. **Predugovor** – kapara do 20.000 € prodavatelju; agencijska provizija često dospijeva već sada (4.000 – 7.500 €). U predugovor staviti uvjet da kupnja ovisi o odobrenju kredita.
-2. **Procjena i obrada kredita** – 0 € uz paket SUPER; otvaranje računa i paketa (11 €/mj.).
-3. **Kupoprodajni ugovor i ugovor o kreditu** – javni bilježnik za kupoprodajni ugovor (oko 50 – 300 €); ostatak učešća ako kapara nije bila 10 %.
-4. **Isplata kredita** – HPB plaća 180.000 € prodavatelju; moguća interkalarna kamata do oko 520 €.
-5. **Upis u zemljišne knjige** – sudska pristojba za upis vlasništva.
+2. **Procjena i obrada kredita** – procjena 275 – 400 € (0 € samo uz HPB-ov paket SUPER, 11 €/mj.); eventualni pregled statičara prije predugovora.
+3. **Kupoprodajni ugovor i ugovor o kreditu** – javni bilježnik za kupoprodajni ugovor (oko 30 – 300 €) i ugovor o kreditu sa zadužnicom (oko 150 – 700 €); ostatak učešća ako kapara nije bila 10 %.
+4. **Isplata kredita** – banka plaća 180.000 € prodavateljima; prije isplate police osiguranja (prva godina 33 – 300 €); moguća interkalarna kamata do oko 520 €.
+5. **Upis u zemljišne knjige** – oko 35 – 70 € pristojbi; prijedlog najkasnije 60 dana od stjecanja uvjeta za upis, inače peterostruka pristojba.
 6. **Rješenje Porezne uprave** – 6.000 € poreza u roku 15 dana od dostave rješenja.
 7. **Prijava prebivališta** – na adresi kuće; uvjet za povrat poreza i oslobađanje od godišnjeg poreza.
 8. **Zahtjev APN-u** – povrat poreza, najkasnije 24 mjeseca od stjecanja vlasništva ([upute na gov.hr](https://gov.hr/hr/povrat-poreza-mladima-za-kupnju-prve-stambene-nekretnine/2757)).
@@ -137,12 +146,15 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 
 - [x] Kupoprodajna cijena: dogovorena 200.000 €
 - [ ] Iznos kapare (do 10 %, može i manje); vidi odjeljak Kapara i rizik niže procjene
-- [ ] Prag procjene za povrat kapare: izračunat raspon oko 191.200 – 196.100 € (ovisi o proviziji agencije); konačan prag odlučuje korisnik
+- [ ] Prag procjene za povrat kapare: izračunat raspon oko 191.700 – 199.900 € (ovisi o proviziji agencije i ostalim troškovima); konačan prag odlučuje korisnik
 - [ ] Provizija Dom Eksperta: postotak, je li s PDV-om, kada dospijeva
 - [ ] Kvadratura kuće i prosječna cijena m² u Zelini (MPGI kalkulator) za izračun povrata poreza
 - [ ] Jeste li vi i djevojka mlađi od 45 i bez ranije odgovarajuće nekretnine (uvjet za povrat)
-- [ ] Tko sastavlja kupoprodajni ugovor i koliko stoji javni bilježnik
-- [ ] Iznos sudske pristojbe za upis u zemljišne knjige
+- [ ] Tko sastavlja kupoprodajni ugovor i koliko stoji javni bilježnik (kupoprodajni ugovor, ugovor o kreditu, zadužnica)
+- [ ] Cijena procjene nekretnine u banci koju odaberete
+- [ ] Ponuda statičara ili geotehničara, ako prodavatelji nemaju nalaz
+- [ ] Hoće li prodavatelji dostaviti energetski certifikat (njihova obveza; banka ga traži)
+- [x] Iznos sudske pristojbe za upis u zemljišne knjige: 6,50 € prijedlog (50 % manje elektronički) + 26,54 € rješenje po upisu (gov.hr)
 - [ ] Komunalna naknada za kuću (Grad Sveti Ivan Zelina)
 - [ ] Ima li Grad ili Zagrebačka županija potporu za mlade pri kupnji (Kompare 12. 10.: nema novih saznanja o pogodnostima ni subvencijama)
 - [x] Ima li kuća uporabnu dozvolu ili rješenje o izvedenom stanju: kuća ima rješenje o izvedenom stanju (vidi Dokumentacija kuće – otvorena pitanja)

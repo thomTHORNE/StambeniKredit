@@ -125,6 +125,7 @@ Rokovi koje treba pratiti; „provjeriti” znači da rok još nije poznat. Svak
 | Nova ponuda iste banke | 30 dana od prethodne ponude (Kompare, usmeno); HPB ne prije oko 6. 11. 2026.; Zaba ne prije oko 8. 11. 2026. ako se telefonska ponuda od 9. 10. računa kao izdana ponuda | provjeriti vrijedi li pravilo za Zabu (izračun iz aplikacije i neslužbena telefonska ponuda) |
 | Predugovor | rok za sklapanje kupoprodajnog ugovora dogovara se u predugovoru | provjeriti pri izradi |
 | Procjena nekretnine | vrijedi 12 mjeseci od izrade | još nije izrađena |
+| Upis vlasništva u zemljišne knjige | 60 dana od stjecanja uvjeta za upis (Zaba: od isplate kredita); nakon toga peterostruka pristojba | nakon kupnje |
 | Porez na promet nekretnina | 15 dana od dostave rješenja Porezne uprave | nakon kupnje |
 | Zahtjev APN-u za povrat poreza | 24 mjeseca od stjecanja vlasništva | nakon kupnje |
 | Obveza nakon povrata poreza | 5 godina bez prodaje, najma i odjave prebivališta | nakon isplate povrata |
