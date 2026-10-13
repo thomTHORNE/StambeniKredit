@@ -9,7 +9,8 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | Ana Gotovac (ranije Marić) | Osobna bankarica | HPB, poslovnica Sesvete | Info telefon HPB-a: 0800 472 472 |
 | Roko | Agent za nekretnine | Dom Ekspert d.o.o. | Posreduje u prodaji kuće |
 | Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 12. 10. 2026.) |
-| Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Zaba je izdala dvije informativne ponude; nije zabilježeno je li ih izdala ona |
+| Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Izdala informativnu ponudu iz listopada 2026. |
+| Ime naknadno | Bankarica | Zagrebačka banka (Zaba) | Izdala ponudu „stambeni kredit za mlade” od 12. 6. 2026.; ime i kontakt korisnik će dostaviti |
 | Prodavatelji | Vlasnici kuće | – | Vlasnički odnosi su u dokumentu Dokumentacija kuće – otvorena pitanja |
 
 ## HPB – Ana Gotovac
@@ -45,8 +46,8 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| listopad 2026. | Informativna ponuda za 200.000 € uz 3,70 % (bez sudužnika do 183.400 €) |
-| 12. 6. 2026. | Informativna ponuda „stambeni kredit za mlade”: 180.000 €, 3,39 % |
+| listopad 2026. | Matea Šuliček: informativna ponuda za 200.000 € uz 3,70 % (bez sudužnika do 183.400 €) |
+| 12. 6. 2026. | Druga bankarica (ime naknadno): informativna ponuda „stambeni kredit za mlade”: 180.000 €, 3,39 % |
 
 ## Povezani dokumenti
 
