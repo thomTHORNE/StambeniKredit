@@ -52,7 +52,7 @@ Predugovor je prvi ugovor koji potpisujete: obje strane se obvezuju sklopiti kup
 **Što predugovor mora sadržavati**
 
 - Kupoprodajnu cijenu (200.000 €) i točan opis nekretnine (katastarska čestica, ZK uložak)
-- Iznos kapare (do 10 %, može i manje) i odredbu da se **kapara uračunava u kupoprodajnu cijenu**; banke tada kaparu priznaju kao dio učešća (Kompare, usmeno 13. 10. 2026.)
+- Iznos kapare (do 10 %, može i manje) i odredbu da se **kapara uračunava u kupoprodajnu cijenu**; banke tada kaparu priznaju kao dio učešća (Kompare, usmeno 12. 10. 2026.)
 - Uvjet da je kupnja **uvjetovana odobrenjem stambenog kredita** i da se kapara vraća ako kredit nije odobren
 - Rok za sklapanje kupoprodajnog ugovora (ostaviti dovoljno vremena za kredit, npr. 60 – 90 dana)
 - Način isplate: kapara, učešće i iznos koji isplaćuje banka

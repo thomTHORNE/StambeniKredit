@@ -8,7 +8,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | --- | --- | --- | --- |
 | Ana Gotovac (ranije Marić) | Osobna bankarica | HPB, poslovnica Sesvete | Info telefon HPB-a: 0800 472 472 |
 | Roko | Agent za nekretnine | Dom Ekspert d.o.o. | Posreduje u prodaji kuće |
-| Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 13. 10. 2026.) |
+| Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 12. 10. 2026.) |
 | Zagrebačka banka | Banka | Zaba | Izdala dvije informativne ponude; ime bankara nije zabilježeno |
 | Prodavatelji | Vlasnici kuće | – | Vlasnički odnosi su u dokumentu Dokumentacija kuće – otvorena pitanja |
 
@@ -36,7 +36,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 13. 10. 2026. | **Odgovoreno (telefonom):** Tijana usmeno potvrdila: banke priznaju kaparu kao dio učešća; Kompare je za podnositelja besplatan; banka koja je izdala ponudu (preko bilo koga) ne može dati novu ponudu 30 dana. O drugim pogodnostima i subvencijama te o CPI polici nema novih saznanja. Detalji u dokumentima Troškovnik kupnje kuće i Usporedba ponuda stambenih kredita. |
+| 12. 10. 2026. | **Odgovoreno (telefonom):** Tijana usmeno potvrdila: banke priznaju kaparu kao dio učešća; Kompare je za podnositelja besplatan; banka koja je izdala ponudu (preko bilo koga) ne može dati novu ponudu 30 dana. O drugim pogodnostima i subvencijama te o CPI polici nema novih saznanja. Detalji u dokumentima Troškovnik kupnje kuće i Usporedba ponuda stambenih kredita. |
 | 12. 10. 2026. | **Poslano:** mail s dokumentacijom (6 platnih lista, JOPPD, potvrda Porezne uprave o dohotku, dokumentacija kuće) i pet pitanja: kako se Kompare naplaćuje, ostaje li mogućnost osobnog traženja ponuda, druge pogodnosti osim povrata poreza, priznaju li banke kaparu kao učešće, mogućnosti i način plaćanja CPI police. |
 | 12. 10. 2026. | Tijanin mail s popisom potrebne dokumentacije za provjeru kreditne sposobnosti |
 | 12. 10. 2026. | Telefonski razgovor; dogovoreno da korisnik dostavi dokumentaciju za provjeru kreditne sposobnosti |

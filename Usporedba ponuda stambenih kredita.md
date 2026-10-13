@@ -30,7 +30,7 @@ Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u 
 
 ## Pravilo od 30 dana za nove ponude
 
-Banka koja je već izdala ponudu ne može izdati novu u roku od 30 dana, bez obzira na to tko ju je zatražio (korisnik, Kompare ili druga institucija). Izvor: Tijana Salajić (Kompare), usmeno 13. 10. 2026.; nije provjereno u bankama ni u pisanom izvoru.
+Banka koja je već izdala ponudu ne može izdati novu u roku od 30 dana, bez obzira na to tko ju je zatražio (korisnik, Kompare ili druga institucija). Izvor: Tijana Salajić (Kompare), usmeno 12. 10. 2026.; nije provjereno u bankama ni u pisanom izvoru.
 
 - HPB: ponuda od 7. 10. 2026., nova ne prije oko 6. 11. 2026.
 - Zaba: ponuda iz listopada 2026., točan datum nije zabilježen; nova ne prije 30 dana od tog datuma.
