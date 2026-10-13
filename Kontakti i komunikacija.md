@@ -9,7 +9,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | Ana Gotovac (ranije Marić) | Osobna bankarica | HPB, poslovnica Sesvete | Info telefon HPB-a: 0800 472 472 |
 | Roko | Agent za nekretnine | Dom Ekspert d.o.o. | Posreduje u prodaji kuće |
 | Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 12. 10. 2026.) |
-| Zagrebačka banka | Banka | Zaba | Izdala dvije informativne ponude; ime bankara nije zabilježeno |
+| Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Zaba je izdala dvije informativne ponude; nije zabilježeno je li ih izdala ona |
 | Prodavatelji | Vlasnici kuće | – | Vlasnički odnosi su u dokumentu Dokumentacija kuće – otvorena pitanja |
 
 ## HPB – Ana Gotovac
