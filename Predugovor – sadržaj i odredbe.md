@@ -26,7 +26,7 @@ Primjerak je stari predložak iz 2016. za kupnju kuće isključivo kreditom PBZ-
 
 ## Odredbe koje treba dodati
 
-Ovo su odredbe koje primjerak nema, a za ovu kupnju su potrebne. Prve tri već su najavljene agentu mailom od 13. 10. 2026.
+Ovo su odredbe koje primjerak nema, a za ovu kupnju su potrebne. Prve tri već su najavljene agentu mailom od 13. 10. 2026. Agent je 14. 10. 2026. usmeno potvrdio samo povrat kapare ako banka ne isplati kredit; uvjet o pragu procjene i uračunavanje kapare u učešće još nije potvrdio. Nacrt predugovora sastavit će agencija (agent ili njihov odvjetnik) i dati ga na uvid prije potpisa.
 
 | Odredba | Zašto |
 | --- | --- |

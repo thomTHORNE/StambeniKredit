@@ -47,8 +47,8 @@ Layout d.o.o., broj 027-22, veljača 2022., arhitektica Helena Vuksan (A 2538). 
 ## 5. Dokumenti koji još nedostaju
 
 - [ ] **Izvadak iz zemljišnih knjiga** (aktualni, ne stariji od mjesec dana): vlasnici, plodouživanje, hipoteke i zabilježbe. Možete ga sami preuzeti na e-Građanima (ZK uložak 2571, k.o. Hrastje).
-- [ ] **Energetski certifikat**: obveza prodavateljice; čekamo od agenta.
-- [ ] **Dokaz o stabilnosti kuće i tla**: izvještaj statičara ili geotehničara s imenom, brojem ovlaštenja, datumom i zaključkom. Ako ne postoji, naručiti vlastiti pregled prije predugovora.
+- [ ] **Energetski certifikat**: obveza prodavateljice; agent 14. 10. 2026. kaže da ga vlasnica ima i da će ga uskoro dostaviti.
+- [ ] **Dokaz o stabilnosti kuće i tla**: izvještaj statičara ili geotehničara s imenom, brojem ovlaštenja, datumom i zaključkom. Ako ne postoji, naručiti vlastiti pregled prije predugovora. Agent 14. 10. 2026. ponovno tvrdi da vlasnica ima nalaz statičara i da će ga uskoro dostaviti.
 - [ ] **Potvrde o nepostojanju duga** za komunalnu naknadu i režije.
 - [ ] **Računi za režije** za zadnjih 12 mjeseci.
 
