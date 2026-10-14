@@ -165,6 +165,7 @@ Najviše gotovine treba odmah na predugovoru (kapara), a porez dolazi tek nakon 
 - [ ] Iznos kapare (do 10 %, može i manje); vidi odjeljak Kapara i rizik niže procjene
 - [ ] Prag procjene za povrat kapare: izračunat raspon oko 192.800 – 197.200 € (ovisi o ostalim troškovima); konačan prag odlučuje korisnik
 - [x] Provizija Dom Eksperta: 2 % + PDV od kupoprodajne cijene, 5.000 € uz cijenu 200.000 € (agent, telefonom 14. 10. 2026.)
+- [ ] Neto primanja za kreditnu sposobnost: dokumenti računaju s 2.100 € (2.000 € + 100 € dodataka), a Kompare je u zahtjevu PBZ-u upisala 1.828,55 €. Potvrda Porezne uprave za rujan 2025. – kolovoz 2026. daje prosječno oko 1.757 € neto mjesečno, odnosno oko 1.923 € s neoporezivim primicima. Uz 1.828,55 € najveća rata (45 %) je 822,85 €.
 - [ ] Kada dospijeva provizija Dom Eksperta (pri predugovoru ili pri kupoprodajnom ugovoru)
 - [x] Kvadratura kuće i prosječna cijena m² u Zelini za izračun povrata poreza: 129,97 m² (rješenje i snimak izvedenog stanja), 1.361 €/m² za ugovore iz 2026. (APN)
 - [x] Potvrditi s APN-om koju površinu kuće uzimaju i kako se dokazuje izvanbračna zajednica: dokaz zajednice ne traže; vrijedi neto (vrijednosna) površina, dokazana npr. rješenjem o izvedenom stanju (APN, mail 13. 10. 2026.)
