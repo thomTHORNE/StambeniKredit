@@ -55,13 +55,13 @@ Izvori: odgovor HPB-a (8. 10. 2026.), [Zaba – opće informacije o stambenom kr
 
 HPB-ova ponuda je u anuitetima (jednaka mjesečna rata). Kod otplate u ratama prva rata je najviša, pa ona određuje kreditnu sposobnost.
 
-| | 180.000 € | 166.000 € |
+| | 180.000 € | 152.800 € |
 | --- | --- | --- |
 | Anuitet (3,49 %, 30 god.) | 807,28 € | – |
-| Prva rata kod otplate u ratama | oko 1.023 € | oko 944 € |
-| HNB granica (45 % od 2.100 €) | 945 € | 945 € |
+| Prva rata kod otplate u ratama | oko 1.023 € | oko 869 € |
+| HNB granica (45 % od 1.930,80 €) | 868,86 € | 868,86 € |
 
-Otplata u ratama s 180.000 € prelazi granicu; najveći iznos u ratama je oko 166.000 €. Promijeniti bi to mogla sudužnica ili iznimka banke. Treba provjeriti nudi li HPB uopće otplatu u ratama.
+Otplata u ratama s 180.000 € prelazi granicu; najveći iznos u ratama je oko 152.800 € (uz primanja od 1.930,80 €, šestomjesečni prosjek prema Kompare 15. 10. 2026.). Promijeniti bi to mogla sudužnica ili iznimka banke. Treba provjeriti nudi li HPB uopće otplatu u ratama.
 
 ## Povezani dokumenti
 

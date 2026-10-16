@@ -41,7 +41,10 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 14. 10. 2026. | Tijanin mail s obrascima za PBZ koje treba potpisati i vratiti: Podaci o klijentu, Zahtjev za izradu informativnog izračuna, Prodajni obrazac i Obrazac zaštite osobnih podataka. Obrasci su većinom unaprijed ispunjeni (kredit 180.000 €, 360 mjeseci, anuiteti; primanja upisana kao 1.828,55 €). Prodajni obrazac nije među datotekama u Drive mapi PBZ. |
+| 15. 10. 2026. | **Odgovoreno:** Tijana ispravila primanja na 1.930,80 € (šestomjesečni prosjek); zahtjev šalje u PBZ 16. 10. i javlja se kad dobije odgovor. |
+| 15. 10. 2026. | **Poslano:** sva potpisana dokumentacija za PBZ, uz pitanje kako je izračunat iznos primanja od 1.828,55 €. |
+| 15. 10. 2026. | Tijana poslala Prodajni obrazac (nije stigao uz prvi mail) s molbom za potpis na dva mjesta. |
+| 14. 10. 2026. | Tijanin mail s obrascima za PBZ koje treba potpisati i vratiti: Podaci o klijentu, Zahtjev za izradu informativnog izračuna, Prodajni obrazac i Obrazac zaštite osobnih podataka. Obrasci su većinom unaprijed ispunjeni (kredit 180.000 €, 360 mjeseci, anuiteti; primanja upisana kao 1.828,55 €). Prodajni obrazac nije bio u prvom mailu; Tijana ga je poslala 15. 10. |
 | 13. 10. 2026. | **Poslano:** osnovni podaci predani usmeno, preslika osobne iskaznice poslana mailom, za zahtjev za ponudu PBZ-a. |
 | 13. 10. 2026. | Telefonski razgovor: Tijana prvu ponudu traži od PBZ-a, očekuje kamatu nižu od 3 % i smatra da su PBZ-ovi uvjeti povoljni za korisnika. Zatražila osnovne podatke i presliku osobne iskaznice da ponudu zatraži u ime korisnika. Poslala ogledni primjerak predugovora (analiza u dokumentu Predugovor – sadržaj i odredbe). |
 | 13. 10. 2026. | **Poslano:** kratak mail s ispravkom: Zabina neslužbena telefonska ponuda je 3,30 %, a ne 3,40 % kako je rečeno u razgovoru 12. 10. |

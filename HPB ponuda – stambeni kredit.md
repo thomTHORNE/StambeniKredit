@@ -31,7 +31,7 @@ Ponuda od 3,49 % pretpostavlja paket SUPER ili PREMIUM i ne uključuje policu os
 | Polica osiguranja otplate (CPI): smrt, bolovanje, nezaposlenost | Jednokratno 4,41 % – 9,55 % iznosa kredita, trajanje 10 ili 15 godina | Uz policu kamata 3,29 % (rata oko 787 €). Na 180.000 € polica stoji 7.938 – 17.190 €, a ušteda na kamati oko 7.200 € kroz 30 godina. |
 | Polica osiguranja nekretnine | Croatia osiguranje, CO imovina – program Standard | 995,40 € za cijeli rok, uključeno u EKS |
 | Maksimalni kredit (LTV 90 %) | Banka uzima nižu vrijednost: kupoprodajnu cijenu ili procjenu (HNB, NN 50/2025, čl. 2. t. 11) | Uz cijenu 200.000 € najviše 180.000 € |
-| Kreditna sposobnost (DSTI 45 %) | Primanja 2.100 € neto | Najveća dopuštena rata 945 €; 807,28 € je unutar granice |
+| Kreditna sposobnost (DSTI 45 %) | Primanja 1.930,80 € neto (šestomjesečni prosjek, Kompare 15. 10. 2026.) | Najveća dopuštena rata 868,86 €; 807,28 € je unutar granice |
 
 Ana je pojasnila (mail 8. 10. 2026.): kamata 3,29 % s web stranice vrijedi uz CPI policu, ne samo uz status klijenta. Otplatni plan uz 3,29 % nije izradila jer polica nije spomenuta na sastanku; izradit će ga kad joj se javi iznos kredita na koji se ugovara polica i trajanje osiguranja (10 ili 15 godina). Financijski se polica ne isplati; njezina vrijednost je zaštita od gubitka prihoda.
 
