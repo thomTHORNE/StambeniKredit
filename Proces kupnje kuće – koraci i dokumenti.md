@@ -23,7 +23,7 @@ Prije predugovora treba provjeriti je li kuća pravno čista i legalna, jer se p
 - [x] Provjera kreditne sposobnosti u banci (HPB, 7. 10. 2026.)
 - [x] Pregled dokumentacije kuće od agencije (Roko, Dom Ekspert), 12. 10. 2026.; nalazi u dokumentu Dokumentacija kuće – otvorena pitanja
 - [ ] Rješavanje otvorenih pitanja iz dokumentacije kuće (stabilnost tla, vlasništvo, izvadak iz zemljišnih knjiga)
-- [ ] Obilazak kuće: stanje krova, instalacija, vlaga, grijanje
+- [ ] Obilazak kuće: stanje krova, instalacija, vlaga, grijanje (drugi razgled s još jednom osobom 21. 10. 2026. u 16 h)
 - [ ] Dogovor s prodavateljicom: cijena, iznos kapare, rok za kupoprodajni ugovor, što ostaje u kući
 - [ ] Potvrda od agenta: kapara se uračunava u cijenu; predugovor uvjetovan odobrenjem kredita
 - [ ] Odlučiti iznos kapare i prag procjene ispod kojeg se kapara vraća (izračun u dokumentu Troškovnik kupnje kuće, odjeljak Kapara i rizik niže procjene)
