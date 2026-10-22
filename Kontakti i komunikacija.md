@@ -28,6 +28,8 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
+| 22. 10. 2026. | Telefonom: vlasnica je odlučila kuću prodati drugom paru koji je ponudio 215.000 €. Kupnja propala. |
+| 21. 10. 2026. | Drugi razgled kuće. Potvrđeno da je vlasništvo 1/1 i da je vlasnica Ljuba (prema podacima iz 2022. u snimku izvedenog stanja kuća je imala tri suvlasnika uz Ljubino plodouživanje; ZK izvadak nije pribavljen). |
 | 20. 10. 2026. | Telefonski razgovor: agencija ne dopušta izravnu komunikaciju s vlasnicom, pa se pitanje analize tla ne može riješiti izravnim pozivom. Dogovoren ponovni razgled kuće 21. 10. 2026. u 16 h. |
 | 19. 10. 2026. | **Odgovoreno (telefonom), djelomično:** na SMS od 16. 10. Roko je javio da vlasnica ne može pronaći dokumentaciju o analizi statičara za tlo i da još nema pristup energetskom certifikatu; dostavit će ga kad dođe do njega. Pojavio se par koji je ponudio 215.000 €, ali ništa nije dogovoreno. Za analizu tla predložio je da se korisnik izravno javi vlasnici; korisnik mora od Roka zatražiti njezin broj. Termin razgleda nije dogovoren. |
 | 16. 10. 2026. | **Poslano (SMS):** molba za novi razgled kuće nakon što stigne dokumentacija od vlasnice i njezina konačna ponuda cijene; korisnik dovodi drugu osobu da kuću detaljnije pogleda; prijedlog da se na razgledu razgovara o ponudi kapare; molba za termin. |
@@ -43,6 +45,8 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
+| 22. 10. 2026. | **Pripremljeno:** mail da je kupnja kuće propala, da se vraćamo traženju nekretnine i molba da ostanemo u kontaktu. Potvrditi slanje. |
+| 20. 10. 2026. | Telefonom: PBZ nudi fiksno 3,08 % bez CPI (EKS 3,23 %) ili 2,95 % s CPI policom (paket A 36,85 €/mj., paket B 90 €/mj.; oba na cijeli rok); moguća i vanjska polica Generali oko 56,60 €/mj. Akcija navodno traje do 15. 11. 2026. Detalji u dokumentu Usporedba ponuda stambenih kredita. |
 | 15. 10. 2026. | **Odgovoreno:** Tijana ispravila primanja na 1.930,80 € (šestomjesečni prosjek); zahtjev šalje u PBZ 16. 10. i javlja se kad dobije odgovor. |
 | 15. 10. 2026. | **Poslano:** sva potpisana dokumentacija za PBZ, uz pitanje kako je izračunat iznos primanja od 1.828,55 €. |
 | 15. 10. 2026. | Tijana poslala Prodajni obrazac (nije stigao uz prvi mail) s molbom za potpis na dva mjesta. |

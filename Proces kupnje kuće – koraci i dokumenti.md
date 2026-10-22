@@ -4,11 +4,11 @@ Oct 9, 2026
 
 ## Pregled
 
-Kupnja ide u pet faza; trenutno smo u fazi 1: kreditna sposobnost je provjerena, dokumentacija kuće je stigla i analizirana, a otvorena pitanja su u dokumentu Dokumentacija kuće – otvorena pitanja.
+Kupnja ide u pet faza. **Kupnja kuće u Pretokima (Sveti Ivan Zelina) je propala 22. 10. 2026.**: vlasnica je kuću prodala drugom paru za 215.000 €. Ponovno smo na početku faze 1 i tražimo novu nekretninu; kreditna sposobnost je provjerena, a koraci i dokumenti ispod vrijede i za sljedeću kuću.
 
 | Faza | Što se događa | Prvi potpis / plaćanje | Stanje |
 | --- | --- | --- | --- |
-| 1. Prije predugovora | Provjera kredita i dokumentacije kuće, dogovor uvjeta | nema | u tijeku |
+| 1. Prije predugovora | Provjera kredita i dokumentacije kuće, dogovor uvjeta | nema | u tijeku (traži se nova nekretnina) |
 | 2. Predugovor | Obveza obje strane da sklope kupoprodajni ugovor | predugovor, kapara | čeka |
 | 3. Kredit | Procjena nekretnine i odobrenje kredita | zahtjev za kredit | čeka |
 | 4. Kupnja | Kupoprodajni ugovor, ugovor o kreditu, isplata | ostatak učešća, javni bilježnik | čeka |
@@ -122,6 +122,7 @@ Rokovi koje treba pratiti; „provjeriti” znači da rok još nije poznat. Svak
 | Dokument ili postupak | Rok | Stanje |
 | --- | --- | --- |
 | HPB ponuda (7. 10. 2026.) | provjeriti do kada vrijedi | otvoreno |
+| PBZ akcijska kamata (3,08 % / 2,95 % s CPI) | navodno do 15. 11. 2026. | provjeriti s Kompare; vezano uz kupnju nove nekretnine |
 | Nova ponuda iste banke | 30 dana od prethodne ponude (Kompare, usmeno); HPB ne prije oko 6. 11. 2026.; Zaba ne prije oko 8. 11. 2026. ako se telefonska ponuda od 9. 10. računa kao izdana ponuda | provjeriti vrijedi li pravilo za Zabu (izračun iz aplikacije i neslužbena telefonska ponuda) |
 | Predugovor | rok za sklapanje kupoprodajnog ugovora dogovara se u predugovoru | provjeriti pri izradi |
 | Procjena nekretnine | vrijedi 12 mjeseci od izrade | još nije izrađena |

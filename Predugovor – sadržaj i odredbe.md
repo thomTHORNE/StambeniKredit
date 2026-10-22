@@ -1,5 +1,7 @@
 # Predugovor – sadržaj i odredbe
 
+**Stanje 22. 10. 2026.: kupnja kuće u Pretokima je propala**; popis odredbi vrijedi i za sljedeći predugovor.
+
 Ogledni primjerak predugovora koji je poslala Kompare (13. 10. 2026.) dobra je osnova za strukturu, ali za ovu kupnju ne pokriva kaparu, procjenu, suvlasnike ni plodouživanje; te odredbe treba dodati prije nego nacrt ode agentu ili javnom bilježniku.
 
 ## Ogledni primjerak (Kompare)

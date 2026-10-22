@@ -2,6 +2,8 @@
 
 Oct 12, 2026
 
+**Stanje 22. 10. 2026.: kupnja ove kuće je propala** (vlasnica je prodala drugom paru). Dokument ostaje kao primjer na što paziti kod sljedeće kuće.
+
 ## Najvažnije prije predugovora
 
 Tri pitanja moraju biti riješena prije potpisa predugovora i uplate kapare; ostala su manje nejasnoće koje agent treba potvrditi.

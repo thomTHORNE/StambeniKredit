@@ -1,6 +1,6 @@
 # Stambeni kredit – kupnja kuće (Sveti Ivan Zelina)
 
-Bilješke i izračuni za kupnju kuće (cijena 200.000 €) i stambeni kredit od 180.000 €.
+Bilješke i izračuni za kupnju kuće i stambeni kredit od 180.000 €. Kupnja kuće u Pretokima (Sveti Ivan Zelina, 200.000 €) propala je 22. 10. 2026.; dokumenti vezani uz tu kuću ostaju kao predložak za sljedeću nekretninu.
 
 | Dokument | Sadržaj |
 | --- | --- |

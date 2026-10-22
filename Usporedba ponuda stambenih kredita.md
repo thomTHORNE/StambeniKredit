@@ -4,11 +4,13 @@ Oct 9, 2026
 
 ## Dobivene ponude
 
-Najjeftinija ukupno je HPB-ova ponuda (291.615,45 € za 180.000 €), iako joj je rata 10 € viša od Zabine ponude za mlade. Usporedbu treba raditi po EKS-u i ukupnom iznosu, ne po rati.
+Najpovoljnija je PBZ-ova ponuda preko Kompare (3,08 % fiksno, EKS 3,23 %, rata 766,68 € za 180.000 €), zasad samo usmeno i uz akciju koja navodno traje do 15. 11. 2026.; od pisanih ponuda najjeftinija je HPB-ova (291.615,45 € ukupno). Usporedbu treba raditi po EKS-u i ukupnom iznosu, ne po rati.
 
 | Ponuda | Datum | Iznos / rok | Kamata (fiksna) | EKS | Rata | Ukupna kamata | Ostali troškovi u EKS-u | Ukupno za plaćanje |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HPB – Super stambeni (HPB ponuda – stambeni kredit) | 7. 10. 2026. | 180.000 € / 360 mj. | 3,49 % | 3,58 % | 807,28 € | 110.618,05 € | 997,40 € (polica nekretnine, nalog) | 291.615,45 € |
+| PBZ – bez CPI (preko Kompare, usmeno) | 20. 10. 2026. | 180.000 € / 360 mj. | 3,08 % | 3,23 % | 766,68 € | – | – | – |
+| PBZ – s CPI policom (preko Kompare, usmeno) | 20. 10. 2026. | 180.000 € / 360 mj. | 2,95 % | – | 754,04 € + CPI 36,85 € ili 90 € mjesečno | – | – | – |
 | Zaba – kredit za mlade | 12. 6. 2026. | 180.000 € / 360 mj. | 3,39 % | 3,72 % | 797,28 € | 107.335,73 € | 9.182,50 € (osig. od nezgode 144 €/god., osig. nekretnine 150 €/god., procjena 362,50 €) | 296.518,23 € |
 | Zaba – stambeni kredit (izračun u aplikaciji m-zaba) | listopad 2026. | 200.000 € / 360 mj. | 3,70 % | – | 920,58 € | – | – | 340.049,29 € |
 
@@ -25,6 +27,19 @@ Od ostalih banaka još nema ponuda; ovo su fiksne kamate za cijeli rok s njihovi
 | OTP | 3,39 % | oko 797 € | Bez police; uz policu 3,19 % |
 | Erste | 3,45 % | oko 803 € | Status klijenta, od 1. 10. 2026.; ostali 3,75 % |
 | PBZ | 3,38 – 3,58 % | oko 796 – 816 € | Ovisno o riziku i LTV-u |
+
+## PBZ: opcije s CPI policom
+
+PBZ nudi kredit bez police (3,08 %) ili s CPI policom (2,95 %), koja se plaća mjesečno i pokriva cijeli rok otplate (Tijana, telefonom 20. 10. 2026.). Pisana ponuda još nije stigla; akcija navodno traje do 15. 11. 2026.
+
+| Opcija | Anuitet | Polica mjesečno | Ukupno mjesečno | Što polica pokriva |
+| --- | --- | --- | --- | --- |
+| Bez CPI (3,08 %) | 766,68 € | – | 766,68 € | – |
+| CPI paket A (2,95 %) | 754,04 € | 36,85 € | 790,89 € | Smrt, bolest i invaliditet |
+| CPI paket B (2,95 %) | 754,04 € | 90,00 € | 844,04 € | Paket A + dugo bolovanje i nezaposlenost; do 12 anuiteta, najviše 3 puta kroz rok |
+| Bez CPI u banci + vanjska polica Generali | 766,68 € | oko 56,60 € | oko 823,28 € | Prema polici Generalija (nije zabilježeno) |
+
+Anuiteti su provjereni izračunom (180.000 €, 360 mjeseci). Najveća dopuštena rata uz primanja od 1.930,80 € je 868,86 €, pa sve opcije stanu u granicu.
 
 Kompare 13. 10. 2026. traži prvu ponudu od PBZ-a; Tijana očekuje kamatu nižu od 3 %. Addiko trenutno ne nudi stambene kredite. Kad stigne nova ponuda, dodajemo je u tablicu Dobivene ponude.
 

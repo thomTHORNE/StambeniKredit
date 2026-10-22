@@ -2,6 +2,8 @@
 
 Oct 9, 2026
 
+**Stanje 22. 10. 2026.: kupnja ove kuće je propala.** Izračuni (vlastita sredstva, prag procjene, troškovi) vrijede kao predložak za sljedeću nekretninu sličnog iznosa.
+
 ## Sažetak
 
 Za kuću od 200.000 € treba pripremiti oko **31.540 € vlastitih sredstava u povoljnom, a oko 35.440 € u nepovoljnom scenariju**. Uz raspoloživih 38.000 € ostaje rezerva od oko 6.460 € do 2.560 €. Dio poreza (do 6.000 €) može se kasnije vratiti preko APN-a.
