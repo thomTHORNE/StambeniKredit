@@ -45,6 +45,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
+| 2. 11. 2026. | **Pripremljeno:** mail sa šest pitanja o financiranju kupnje nekretnine koju treba adaptirati ili dovršiti (jedan kredit za kupnju i radove, osnovica za iznos kredita, isplata dijela za radove, dokumentacija, neuseljiva nekretnina i dodatni zalog, vrijede li PBZ-ovi uvjeti i za tu namjenu). Povod: kuća u Cagincu (dokument Kuća Caginec – rizici i financiranje). Potvrditi slanje. |
 | 22. 10. 2026. | **Pripremljeno:** mail da je kupnja kuće propala, da se vraćamo traženju nekretnine i molba da ostanemo u kontaktu. Potvrditi slanje. |
 | 20. 10. 2026. | Telefonom: PBZ nudi fiksno 3,08 % bez CPI (EKS 3,23 %) ili 2,95 % s CPI policom (paket A 36,85 €/mj., paket B 90 €/mj.; oba na cijeli rok); moguća i vanjska polica Generali oko 56,60 €/mj. Akcija navodno traje do 15. 11. 2026. Detalji u dokumentu Usporedba ponuda stambenih kredita. |
 | 15. 10. 2026. | **Odgovoreno:** Tijana ispravila primanja na 1.930,80 € (šestomjesečni prosjek); zahtjev šalje u PBZ 16. 10. i javlja se kad dobije odgovor. |

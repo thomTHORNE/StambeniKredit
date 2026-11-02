@@ -99,7 +99,7 @@ Svakom izvođaču treba postaviti ista pitanja:
 - [ ] Opasnost od poplava za česticu (karte Hrvatskih voda).
 - [ ] Tržišna vrijednost gotovih kuća slične veličine u okolici Ivanić-Grada.
 - [ ] Najmanje tri pisane ponude izvođača prema istom troškovniku, posebno za varijante A i B.
-- [ ] HPB i PBZ: može li se kupnja nekretnine bez krova i njezin dovršetak financirati jednim kreditom; koji je postotak kredita u odnosu na sadašnju ili buduću vrijednost; kako izgleda isplata i rok korištenja.
+- [ ] HPB i PBZ (za PBZ i druge banke pitanje je pripremljeno za Kompare 2. 11. 2026.): može li se kupnja nekretnine bez krova i njezin dovršetak financirati jednim kreditom; koji je postotak kredita u odnosu na sadašnju ili buduću vrijednost; kako izgleda isplata i rok korištenja.
 - [ ] Postoji li program potpore Grada Ivanić-Grada za 2026.
 
 ## Izvori
