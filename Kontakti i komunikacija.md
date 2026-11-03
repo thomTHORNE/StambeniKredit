@@ -12,13 +12,13 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Dala neslužbenu telefonsku ponudu od 3,30 % (9. 10. 2026.) |
 | Ime naknadno | Bankarica | Zagrebačka banka (Zaba) | Izdala ponudu „stambeni kredit za mlade” od 12. 6. 2026.; ime i kontakt korisnik će dostaviti |
 | APN | Državna agencija za povrat poreza mladima | Agencija za pravni promet i posredovanje nekretninama | apn@apn.hr, 01 6331 600; Savska cesta 41, Zagreb |
-| Prodavatelji | Vlasnici kuće | – | Vlasnički odnosi su u dokumentu Dokumentacija kuće – otvorena pitanja |
+| Prodavatelji | Vlasnici kuća | – | Podaci o prodavateljima su u dokumentu svake nekretnine (mapa nekretnine) |
 
 ## HPB – Ana Gotovac
 
 | Datum | Događaj |
 | --- | --- |
-| 8. 10. 2026. | **Odgovoreno:** Anin odgovor: 3,29 % vrijedi uz CPI policu; ponuda je izrađena uz paket SUPER ili PREMIUM; poslani uvjeti police osiguranja nekretnine. Ponudila izradu otplatnog plana uz CPI ako joj se javi iznos kredita i trajanje osiguranja (10 ili 15 godina). Otvorena pitanja su u dokumentu HPB ponuda. |
+| 8. 10. 2026. | **Odgovoreno:** Anin odgovor: 3,29 % vrijedi uz CPI policu; ponuda je izrađena uz paket SUPER ili PREMIUM; poslani uvjeti police osiguranja nekretnine. Ponudila izradu otplatnog plana uz CPI ako joj se javi iznos kredita i trajanje osiguranja (10 ili 15 godina). Otvorena pitanja su u dokumentu Usporedba ponuda (HPB ponuda – detalji). |
 | 7. 10. 2026. | **Poslano:** mail s pitanjima o kamati i statusu klijenta, paketu SUPER i polici osiguranja nekretnine |
 | 7. 10. 2026. | Sastanak u poslovnici; dobivena ponuda i otplatni plan (180.000 €, 3,49 %) |
 | 6. 10. 2026. | Poslan upit o kreditnoj sposobnosti; Ana predložila termin 7. 10. u 9:00, dogovoren termin nakon 12:00 |
@@ -45,7 +45,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 2. 11. 2026. | **Pripremljeno:** mail sa šest pitanja o financiranju kupnje nekretnine koju treba adaptirati ili dovršiti (jedan kredit za kupnju i radove, osnovica za iznos kredita, isplata dijela za radove, dokumentacija, neuseljiva nekretnina i dodatni zalog, vrijede li PBZ-ovi uvjeti i za tu namjenu). Povod: kuća u Cagincu (dokument Kuća Caginec – rizici i financiranje). Potvrditi slanje. |
+| 2. 11. 2026. | **Pripremljeno:** mail sa šest pitanja o financiranju kupnje nekretnine koju treba adaptirati ili dovršiti (jedan kredit za kupnju i radove, osnovica za iznos kredita, isplata dijela za radove, dokumentacija, neuseljiva nekretnina i dodatni zalog, vrijede li PBZ-ovi uvjeti i za tu namjenu). Povod: kuća u Cagincu (dokument Caginec – Ivanić-Grad). Potvrditi slanje. |
 | 22. 10. 2026. | **Poslano:** mail da je kupnja kuće propala, da se vraćamo traženju nekretnine i molba da ostanemo u kontaktu. Slanje potvrđeno 2. 11. 2026. |
 | 20. 10. 2026. | Telefonom: PBZ nudi fiksno 3,08 % bez CPI (EKS 3,23 %) ili 2,95 % s CPI policom (paket A 36,85 €/mj., paket B 90 €/mj.; oba na cijeli rok); moguća i vanjska polica Generali oko 56,60 €/mj. Akcija navodno traje do 15. 11. 2026. Detalji u dokumentu Usporedba ponuda stambenih kredita. |
 | 15. 10. 2026. | **Odgovoreno:** Tijana ispravila primanja na 1.930,80 € (šestomjesečni prosjek); zahtjev šalje u PBZ 16. 10. i javlja se kad dobije odgovor. |
@@ -55,7 +55,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | 13. 10. 2026. | **Poslano:** osnovni podaci predani usmeno, preslika osobne iskaznice poslana mailom, za zahtjev za ponudu PBZ-a. |
 | 13. 10. 2026. | Telefonski razgovor: Tijana prvu ponudu traži od PBZ-a, očekuje kamatu nižu od 3 % i smatra da su PBZ-ovi uvjeti povoljni za korisnika. Zatražila osnovne podatke i presliku osobne iskaznice da ponudu zatraži u ime korisnika. Poslala ogledni primjerak predugovora (analiza u dokumentu Predugovor – sadržaj i odredbe). |
 | 13. 10. 2026. | **Poslano:** kratak mail s ispravkom: Zabina neslužbena telefonska ponuda je 3,30 %, a ne 3,40 % kako je rečeno u razgovoru 12. 10. |
-| 12. 10. 2026. | **Odgovoreno (telefonom):** Tijana usmeno potvrdila: banke priznaju kaparu kao dio učešća; Kompare je za podnositelja besplatan; banka koja je izdala ponudu (preko bilo koga) ne može dati novu ponudu 30 dana. O drugim pogodnostima i subvencijama te o CPI polici nema novih saznanja. Korisnik je spomenuo Zabinu neslužbenu telefonsku ponudu kao 3,40 % (pogrešno, točno je 3,30 %). Detalji u dokumentima Troškovnik kupnje kuće i Usporedba ponuda stambenih kredita. |
+| 12. 10. 2026. | **Odgovoreno (telefonom):** Tijana usmeno potvrdila: banke priznaju kaparu kao dio učešća; Kompare je za podnositelja besplatan; banka koja je izdala ponudu (preko bilo koga) ne može dati novu ponudu 30 dana. O drugim pogodnostima i subvencijama te o CPI polici nema novih saznanja. Korisnik je spomenuo Zabinu neslužbenu telefonsku ponudu kao 3,40 % (pogrešno, točno je 3,30 %). Detalji u dokumentima Troškovnik kupnje – predložak i Usporedba ponuda stambenih kredita. |
 | 12. 10. 2026. | **Poslano:** mail s dokumentacijom (6 platnih lista, JOPPD, potvrda Porezne uprave o dohotku, dokumentacija kuće) i pet pitanja: kako se Kompare naplaćuje, ostaje li mogućnost osobnog traženja ponuda, druge pogodnosti osim povrata poreza, priznaju li banke kaparu kao učešće, mogućnosti i način plaćanja CPI police. |
 | 8. 10. 2026. | Tijanin mail s popisom potrebne dokumentacije za provjeru kreditne sposobnosti |
 | 8. 10. 2026. | Telefonski razgovor; dogovoreno da korisnik dostavi dokumentaciju za provjeru kreditne sposobnosti |
@@ -64,7 +64,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 | Datum | Događaj |
 | --- | --- |
-| 13. 10. 2026. | **Odgovoreno:** APN: dokaz izvanbračne zajednice ne traže, dovoljno je navesti partnericu u zahtjevu kao članicu uže obitelji; članica može biti i osoba koja nije suvlasnica, ako živi na istoj adresi. Neto površina kuće dokazuje se dokumentom iz pitanja 29 na apn.hr (npr. rješenje o legalizaciji, procjena, nalaz ovlaštenog inženjera). Uvjeti i izračun su na stranici Uvjeti za ostvarivanje mjere. Detalji u dokumentu Troškovnik kupnje kuće. |
+| 13. 10. 2026. | **Odgovoreno:** APN: dokaz izvanbračne zajednice ne traže, dovoljno je navesti partnericu u zahtjevu kao članicu uže obitelji; članica može biti i osoba koja nije suvlasnica, ako živi na istoj adresi. Neto površina kuće dokazuje se dokumentom iz pitanja 29 na apn.hr (npr. rješenje o legalizaciji, procjena, nalaz ovlaštenog inženjera). Uvjeti i izračun su na stranici Uvjeti za ostvarivanje mjere. Detalji u dokumentu Troškovnik kupnje – predložak. |
 | 13. 10. 2026. | **Poslano:** upit o povratu poreza: kako se dokazuje izvanbračna zajednica (bez zajedničkog prebivališta do kupnje), može li partnerica koja nije suvlasnica biti članica uže obitelji, koja se površina kuće uzima za izračun, i vrijede li isti uvjeti nakon Zakona o priuštivom stanovanju (NN 45/2026). |
 
 ## Zagrebačka banka
@@ -77,7 +77,6 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 
 ## Povezani dokumenti
 
-- HPB ponuda – stambeni kredit – sadržaj HPB ponude i otvorena pitanja za banku
-- Usporedba ponuda stambenih kredita – sve dobivene ponude na jednom mjestu
-- Dokumentacija kuće – otvorena pitanja – nalazi iz dokumentacije koju je poslao agent
-- Proces kupnje kuće – koraci i dokumenti – gdje smo u procesu
+- [Usporedba ponuda stambenih kredita](Usporedba%20ponuda%20stambenih%20kredita.md) – sve ponude, uključujući detalje HPB ponude
+- [Nekretnine – pregled](nekretnine/Nekretnine%20%E2%80%93%20pregled.md) – nekretnine i njihovi prodavatelji
+- [Proces kupnje kuće – koraci i dokumenti](Proces%20kupnje%20ku%C4%87e%20%E2%80%93%20koraci%20i%20dokumenti.md) – gdje smo u procesu

@@ -28,6 +28,7 @@ Osobna radna bilježnica korisnika za jedan veći životni projekt. Sadržaj, st
 - Odgovaraj na hrvatskom, jasno i bez okolišanja.
 - Brojke izračunaj, a činjenice o svijetu (kamate, zakoni, uvjeti) provjeri na izvoru i navedi izvor.
 - Svaka nova spoznaja ide u odgovarajući dokument, a dokumenti moraju ostati međusobno usklađeni.
+- Opći dokumenti sadrže pravila i parametre, a dokumenti nekretnina (mapa `nekretnine/`) samo njihovu primjenu na jednu nekretninu (vidi [upute/dokumenti.md](upute/dokumenti.md)).
 - Ne odlučuj umjesto korisnika: iznesi činjenice, opcije i posljedice. Nisi financijski ni pravni savjetnik, i to reci kad je relevantno.
 - Ako dokumenti i novi podaci proturječe, ukaži na to. Ne prepravljaj tiho.
 - Svaka nova komunikacija s bilo kojim kontaktom upisuje se u dokument Kontakti i komunikacija.

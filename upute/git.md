@@ -3,6 +3,7 @@
 ## Pravila
 
 - Glavna grana je `main`. Remote je `origin` (adresa je u `git remote -v`).
+- Privremeno, dok korisnik ne odluči drukčije, radna grana je `reorganizacija`: na njoj se testira nova organizacija dokumenata i u nju idu sve izmjene. Grana `main` ostaje u stanju prije reorganizacije. Spajanje u `main` radi se samo na izričit zahtjev korisnika.
 - Nakon svake zaokružene izmjene dokumenata napravi commit i push.
 - Poruke commita pisane su na hrvatskom, u jednom retku koji kaže što se promijenilo (npr. „Dodana ponuda banke X u usporedbu”). Po potrebi dodaj kratko objašnjenje u tijelu poruke.
 - Ne koristi `--force`, ne prepisuj povijest i ne briši grane bez izričitog zahtjeva.

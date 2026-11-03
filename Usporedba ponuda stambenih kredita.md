@@ -1,6 +1,6 @@
 # Usporedba ponuda stambenih kredita
 
-Oct 9, 2026
+Sve dobivene ponude za kredit na jednom mjestu, s detaljima pojedinih ponuda. Ponude su izrađene za kredit od 180.000 € na 30 godina; za novu nekretninu treba tražiti nove ponude, a parametri kreditne sposobnosti su u dokumentu Financijski okvir.
 
 ## Dobivene ponude
 
@@ -8,7 +8,7 @@ Najpovoljnija je PBZ-ova ponuda preko Kompare (3,08 % fiksno, EKS 3,23 %, rata 7
 
 | Ponuda | Datum | Iznos / rok | Kamata (fiksna) | EKS | Rata | Ukupna kamata | Ostali troškovi u EKS-u | Ukupno za plaćanje |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HPB – Super stambeni (HPB ponuda – stambeni kredit) | 7. 10. 2026. | 180.000 € / 360 mj. | 3,49 % | 3,58 % | 807,28 € | 110.618,05 € | 997,40 € (polica nekretnine, nalog) | 291.615,45 € |
+| HPB – Super stambeni (detalji niže) | 7. 10. 2026. | 180.000 € / 360 mj. | 3,49 % | 3,58 % | 807,28 € | 110.618,05 € | 997,40 € (polica nekretnine, nalog) | 291.615,45 € |
 | PBZ – bez CPI (preko Kompare, usmeno) | 20. 10. 2026. | 180.000 € / 360 mj. | 3,08 % | 3,23 % | 766,68 € | – | – | – |
 | PBZ – s CPI policom (preko Kompare, usmeno) | 20. 10. 2026. | 180.000 € / 360 mj. | 2,95 % | – | 754,04 € + CPI 36,85 € ili 90 € mjesečno | – | – | – |
 | Zaba – kredit za mlade | 12. 6. 2026. | 180.000 € / 360 mj. | 3,39 % | 3,72 % | 797,28 € | 107.335,73 € | 9.182,50 € (osig. od nezgode 144 €/god., osig. nekretnine 150 €/god., procjena 362,50 €) | 296.518,23 € |
@@ -78,9 +78,82 @@ HPB-ova ponuda je u anuitetima (jednaka mjesečna rata). Kod otplate u ratama pr
 
 Otplata u ratama s 180.000 € prelazi granicu; najveći iznos u ratama je oko 152.800 € (uz primanja od 1.930,80 €, šestomjesečni prosjek prema Kompare 15. 10. 2026.). Promijeniti bi to mogla sudužnica ili iznimka banke. Treba provjeriti nudi li HPB uopće otplatu u ratama.
 
+## HPB ponuda – detalji
+
+### Sažetak ponude
+
+HPB nudi 180.000 € na 30 godina uz fiksnu kamatu 3,49 % i ratu 807,28 € mjesečno; ukupno se vraća 291.615,45 €. Ponuda je izrađena 7. 10. 2026. za kuću kupoprodajne cijene 200.000 € (Pretoki, kupnja propala).
+
+| Stavka | Iznos |
+| --- | --- |
+| Iznos kredita | 180.000,00 € |
+| Rok otplate | 360 mjeseci (30 godina) |
+| Nominalna kamatna stopa | 3,49 %, fiksna za cijeli rok |
+| Efektivna kamatna stopa (EKS) | 3,58 % |
+| Mjesečni anuitet | 807,28 € |
+| Ukupna redovna kamata | 110.618,05 € |
+| Polica osiguranja nekretnine (cijeli rok) | 995,40 € |
+| Trošak platnog naloga | 2,00 € |
+| **Ukupno za plaćanje** | **291.615,45 €** |
+| Metoda obračuna | proporcionalni, dekurzivni |
+
+Prvi anuitet: 523,50 € kamate + 283,78 € glavnice. Kamata se svaki mjesec računa kao ostatak glavnice × 3,49 % ÷ 12.
+
+### Uvjeti i pretpostavke ponude
+
+Ponuda od 3,49 % pretpostavlja paket SUPER ili PREMIUM i ne uključuje policu osiguranja otplate kredita.
+
+| Uvjet | Što znači | Utjecaj |
+| --- | --- | --- |
+| Paket SUPER (11 €/mj., 132 €/god.) ili PREMIUM | Banka plaća procjenu nekretnine i solemnizaciju kod javnog bilježnika | Ne mijenja kamatu; bez paketa ta dva troška plaćate sami i EKS raste. Naknada paketa nije u EKS-u. |
+| Polica osiguranja otplate (CPI): smrt, bolovanje, nezaposlenost | Jednokratno 4,41 % – 9,55 % iznosa kredita, trajanje 10 ili 15 godina | Uz policu kamata 3,29 % (rata oko 787 €). Na 180.000 € polica stoji 7.938 – 17.190 €, a ušteda na kamati oko 7.200 € kroz 30 godina. |
+| Polica osiguranja nekretnine | Croatia osiguranje, CO imovina – program Standard | 995,40 € za cijeli rok, uključeno u EKS |
+| Maksimalni kredit (LTV 90 %) | Banka uzima nižu vrijednost: kupoprodajnu cijenu ili procjenu (HNB, NN 50/2025, čl. 2. t. 11) | Uz cijenu 200.000 € najviše 180.000 € |
+| Kreditna sposobnost (DSTI 45 %) | Primanja 1.930,80 € neto (šestomjesečni prosjek, Kompare 15. 10. 2026.) | Najveća dopuštena rata 868,86 €; 807,28 € je unutar granice |
+
+Ana je pojasnila (mail 8. 10. 2026.): kamata 3,29 % s web stranice vrijedi uz CPI policu, ne samo uz status klijenta. Otplatni plan uz 3,29 % nije izradila jer polica nije spomenuta na sastanku; izradit će ga kad joj se javi iznos kredita na koji se ugovara polica i trajanje osiguranja (10 ili 15 godina). Financijski se polica ne isplati; njezina vrijednost je zaštita od gubitka prihoda.
+
+### Polica osiguranja nekretnine
+
+Polica pokriva samo građevinski dio kuće; potres nije pokriven, a poplava samo do 6.636,14 €. Osiguratelj je Croatia osiguranje (CO imovina – program Standard).
+
+| Rizik | Pokriveno do |
+| --- | --- |
+| Požar, izravni udar groma, oluja, tuča, eksplozija, udar vozila, pad letjelice, demonstracije | nove građevinske vrijednosti kuće |
+| Poplava, bujica, visoka voda | 6.636,14 € |
+| Izljev vode iz cijevi | 6.636,14 € |
+| Snježna lavina, pritisak snijega | 6.636,14 € |
+| Provalna krađa, razbojništvo, vandalizam | 663,61 € |
+| Neizravni udar groma | 265,45 € |
+| Potres | nije pokriven; može se doplatiti, franšiza 10 % (min. 597,25 €, maks. 9.954,21 €) osim ako se otkupi |
+| Klizanje tla, privatna odgovornost | samo ako se posebno ugovori |
+
+Dodatno se mogu ugovoriti potres, privatna odgovornost, lom stakla i slična pokrića (Ana, 8. 10. 2026.). Nije pokriveno: stvari u kući, gljivice od vlage. Policu sklopljenu na više od 5 godina nije moguće otkazati prije isteka 5 godina.
+
+### Otvorena pitanja za HPB
+
+- [ ] Utječe li status klijenta (plaća na račun u HPB-u) na kamatu ili druge uvjete, ili je to samo uvjet za paket SUPER?
+- [ ] Vrijedi li niža kamata (3,29 %) cijeli rok od 30 godina ili samo dok traje CPI osiguranje (10 ili 15 godina)?
+- [ ] Može li se CPI polica platiti iz iznosa kredita i koliko bi točno stajala za 180.000 €? Djelomično: Ana će izraditi izračun kad joj se javi iznos kredita i trajanje osiguranja (10 ili 15 godina); plaćanje iz kredita nije odgovoreno.
+- [ ] Koliko stoji dodatno pokriće za potres (i veće pokriće za poplavu ako je potrebno)?
+- [ ] Imaju li besplatna procjena i solemnizacija iz paketa SUPER gornju granicu iznosa?
+- [ ] Mijenja li se kamata ako nakon odobrenja kredita prijeđem na jeftiniji paket?
+- [ ] Koliko traje obrada zahtjeva i do kada vrijedi ova ponuda?
+- [x] Zašto 3,49 % umjesto 3,29 %? → 3,29 % je uz CPI policu.
+- [x] Je li ponuda uz paket SUPER? → Da, banka plaća procjenu i solemnizaciju.
+- [x] Što pokriva polica osiguranja nekretnine? → Vidi gore.
+- [x] Koju vrijednost banka uzima? → Nižu od kupoprodajne cijene i procjene (HNB pravilo).
+
+### Kontakt i komunikacija
+
+Kontakt bankarice i slijed komunikacije s HPB-om vode se u dokumentu Kontakti i komunikacija.
+
+Izvori: HPB otplatni plan i Prilog 1 (7. 10. 2026.), IPID i Uvjeti za osiguranje građevinskog dijela kuće ili stana (Croatia osiguranje), [HPB Super stambeni kredit](https://www.hpb.hr/hr/super-stambeni-kredit/90), [HPB paket SUPER](https://www.hpb.hr/hr/hpb-paket-super/10810), [Odluka o kriterijima kreditiranja potrošača, NN 50/2025](<https://zakon.hr/c/podzakonski-propis/540652/nn-50-2025-(19.3.2025.),-odluka-o-kriterijima-kreditiranja-potrosaca>).
+
 ## Povezani dokumenti
 
-- HPB ponuda – stambeni kredit – detalji HPB ponude, uvjeti, polica osiguranja, otvorena pitanja i komunikacija s bankom
-- Troškovnik kupnje kuće – Sveti Ivan Zelina – svi troškovi kupnje kuće i potrebna vlastita sredstva
+- [Financijski okvir](Financijski%20okvir.md) – primanja, najveća rata i najveći kredit
+- [Troškovnik kupnje – predložak](Tro%C5%A1kovnik%20kupnje%20%E2%80%93%20predlo%C5%BEak.md) – troškovi kupnje
+- [Kontakti i komunikacija](Kontakti%20i%20komunikacija.md) – komunikacija s bankama i Kompare
 
 Izvori kamata: [HPB Super stambeni kredit](https://www.hpb.hr/hr/super-stambeni-kredit/90), [PBZ opće informacije](https://www.pbz.hr/document/documents/PBZ/krediti_stambeni/oi-stambeni-24072026.pdf), [OTP stambeni kredit](https://www.otpbanka.hr/gradani/stambeni-kredit-u-eurima), [RBA uvjeti](https://www.rba.hr/content/dam/rbi/retail/eu/hr/dokumentacija/gradani/uvjeti-i-opce-informacije/uvjeti-i-informacije-stambeni-krediti/2026-03-16-uvjeti-i-opce-informacije-o-stambenim-kreditima.pdf.coredownload.inline.pdf), [Erste – nove kamate od 1. 10.](https://www.glasistre.hr/hrvatska/2026/10/01/nova-tempirana-bomba-za-gradane-od-danas-skuplji-stambeni-krediti-1086556), [Top7.hr usporedba](https://top7.hr/financije/najbolji-stambeni-krediti).

@@ -6,6 +6,7 @@ Pravila koja vrijede u svakom razgovoru, od prve do zadnje poruke.
 
 - Prije odgovora na prvo pitanje pregledaj dokument Kontakti i komunikacija i otvorena pitanja (kontrolne liste `- [ ]`) u ostalim dokumentima.
 - Kratko navedi što čeka odgovor ili je zapelo, s datumom zadnjeg događaja (npr. „Kontakt X: čeka se odgovor od 12. 10.”). Tri do pet stavki, bez ponavljanja cijelih dokumenata.
+- Navedi i ono što je zastarjelo prema pravilima iz [dokumenti.md](dokumenti.md) (odjeljak Zastarijevanje): rokove ponuda koji ističu ili su istekli i promjenjive činjenice u općim dokumentima i dokumentima aktivnih nekretnina čiji je „stanje na dan” stariji od okvirnog roka.
 - Ako nema ničega otvorenog, preskoči ovaj korak.
 
 ## Nova komunikacija
