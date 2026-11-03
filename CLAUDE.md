@@ -22,6 +22,7 @@ Osobna radna bilježnica korisnika za jedan veći životni projekt. Sadržaj, st
 | [upute/dokumenti.md](upute/dokumenti.md) | Kad se dokumenti stvaraju, mijenjaju ili ažuriraju |
 | [upute/git.md](upute/git.md) | Kad treba napraviti commit ili push |
 | [upute/pisanje-poruka.md](upute/pisanje-poruka.md) | Kad korisnik traži e-mail ili poruku nekome |
+| [upute/provjera-uskladenosti.md](upute/provjera-uskladenosti.md) | Kad korisnik traži provjeru usklađenosti ili je pokrene zakazani zadatak |
 
 ## Najvažnija pravila ukratko
 
@@ -31,6 +32,7 @@ Osobna radna bilježnica korisnika za jedan veći životni projekt. Sadržaj, st
 - Opći dokumenti sadrže pravila i parametre, a dokumenti nekretnina (mapa `nekretnine/`) samo njihovu primjenu na jednu nekretninu (vidi [upute/dokumenti.md](upute/dokumenti.md)).
 - Ne odlučuj umjesto korisnika: iznesi činjenice, opcije i posljedice. Nisi financijski ni pravni savjetnik, i to reci kad je relevantno.
 - Ako dokumenti i novi podaci proturječe, ukaži na to. Ne prepravljaj tiho.
+- Prije upisa nove informacije pretraži cijeli repozitorij; ako je informacija nejasna, pitaj umjesto da pretpostaviš (vidi [upute/tijek-razgovora.md](upute/tijek-razgovora.md)).
 - Svaka nova komunikacija s bilo kojim kontaktom upisuje se u dokument Kontakti i komunikacija.
 - Svako zatvaranje otvorenog pitanja izričito navedi u odgovoru, s odgovorom i izvorom.
 - Kod svakog pravnog dokumenta ili postupka podsjeti korisnika da provjeri rok.

@@ -16,6 +16,15 @@ Pravila koja vrijede u svakom razgovoru, od prve do zadnje poruke.
 - Događaj se upisuje kao jedan red u tablicu tog kontakta, najnoviji na vrhu: datum i kratak sažetak (što je rečeno ili dogovoreno). Detalji (iznosi, uvjeti, nalazi) idu u odgovarajući dokument, a red na njega upućuje.
 - Nije potrebna potpuna povijest razgovora. Zapis služi za orijentaciju i slijed događaja.
 
+## Nova informacija: prije upisa
+
+Vrijedi za svaku informaciju koju korisnik donese (poruka, poziv, dokument, ispravak) i za svaku koju pronađeš sam.
+
+1. **Pretraži cijeli repozitorij**, ne samo dokumente koje si pročitao: `grep -rn` po ključnim pojmovima, imenima, brojkama, datumima i sinonimima (npr. „provizija”, „naknada agencije”, iznos u eurima). Cilj je otkriti je li informacija već zapisana i proturječi li nečemu.
+2. **Razvrstaj** prema [dokumenti.md](dokumenti.md): komunikacija, parametar, opće pravilo ili podatak jedne nekretnine; za podatak nekretnine provjeri bi li vrijedio i za sljedeću.
+3. **Ako informacija nije jednoznačna, pitaj prije upisa.** Tipične nejasnoće: tko je što rekao ili izdao, kada, je li pisano ili usmeno, na koju se nekretninu ili ponudu odnosi, je li riječ o tvrdnji ili dokazu. Ako korisnik nije dostupan ili se upis ne može odgoditi, upiši s oznakom „pretpostavka – potvrditi” i navedi to u odgovoru.
+4. **Usmene tvrdnje trećih strana** (agent, banka, posrednik) upisuj kao tvrdnju s izvorom i datumom („prema agentu, usmeno 14. 10.”), ne kao utvrđenu činjenicu.
+
 ## Status poruka koje pripremaš
 
 - Svaka poruka koju pripremiš za korisnika upisuje se u Kontakti i komunikacija sa statusom na početku sažetka:
@@ -39,6 +48,11 @@ Pravila koja vrijede u svakom razgovoru, od prve do zadnje poruke.
 
 ## Na kraju odgovora
 
+- Kad je korisnik donio novu informaciju, prije popisa promjena kratko navedi kako si je protumačio, za svaku bitnu stavku jednom oznakom:
+  - **Novo** – nije bilo zapisano; gdje je upisano.
+  - **Već poznato** – gdje je već zapisano; ništa nije promijenjeno ili je samo potvrđeno.
+  - **Proturječi** – što je bilo zapisano i gdje; što je promijenjeno ili što treba odlučiti.
+  - **Nepotvrđeno** – usmena tvrdnja ili pretpostavka koju treba potvrditi.
 - Kad je odgovor promijenio dokumente, završi ga kratkim popisom: koji su dokumenti promijenjeni i u jednoj rečenici što je promijenjeno u svakom.
 - Zatvorena pitanja navedi prema pravilu iz odjeljka Zatvaranje otvorenih pitanja.
 - Nakon toga napravi commit (vidi [git.md](git.md)).
