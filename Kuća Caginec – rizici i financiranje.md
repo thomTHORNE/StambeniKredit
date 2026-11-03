@@ -55,6 +55,21 @@ Ovim iznosima treba dodati rezervu za nepredviđeno; često se računa 10–15 %
 - Okvir je zato najviše oko **242.000 €**, ali samo ako banka odobri puni iznos. Banka ne može dati više od dopuštenog postotka procijenjene vrijednosti, pa ako procjena bude niža, okvir je manji.
 - **Varijanta A ne stane u okvir; nedostaje oko 31.000 do 126.000 €. Varijanta B stane samo pri donjoj granici troška, a i tada bez rezerve.**
 
+## Kako se radovi zovu: adaptacija, rekonstrukcija, dovršenje
+
+Radovi na ovoj kući po svemu sudeći spadaju u **dovršenje**, tj. nastavak gradnje, ili u **rekonstrukciju**. Ne spadaju u adaptaciju. Koji je od ta dva slučaja, ovisi o tome odgovara li izvedena kuća građevinskoj dozvoli. O tome ovisi i koju će namjenu kredita banka primijeniti i koju dokumentaciju tražiti.
+
+| Pojam | Značenje | Kad je u pitanju ova kuća |
+| --- | --- | --- |
+| Renovacija | Razgovorni izraz za obnovu. Nije pojam iz Zakona o gradnji, a banke ga u pravilu ne koriste kao namjenu kredita. | – |
+| Adaptacija | Namjena kredita kod banaka (npr. HPB-ova „kupnja + adaptacija”). Obično se odnosi na uređenje postojeće, useljive nekretnine bez promjene gabarita i namjene: instalacije, podovi, kupaonica, stolarija. U Zakonu o gradnji takvi radovi uglavnom spadaju u održavanje, koje „ne mijenja usklađenost građevine s lokacijskim uvjetima”. | Ne odgovara, jer kuća nikad nije bila dovršena ni useljiva. |
+| Rekonstrukcija | Pojam iz Zakona o gradnji: radovi na postojećoj građevini kojima se utječe na temeljne zahtjeve ili mijenja usklađenost s lokacijskim uvjetima (dogradnja, nadogradnja, promjena namjene). Za nju je potrebna dozvola. | Ako je kuća iz 1984. kasnije dograđena ili nadograđena, a sadašnja veličina nije pokrivena dozvolom. |
+| Dovršenje | Namjena kredita kod banaka (npr. PBZ). Pravno je to građenje prema postojećoj građevinskoj dozvoli, a nakon završetka slijedi uporabna dozvola. | Ako postoji važeća građevinska dozvola za današnju kuću od 260 m². |
+
+Kad je u pitanju dovršenje ili rekonstrukcija, banka u pravilu traži građevinsku dozvolu ili glavni projekt i troškovnik. Kredit za adaptaciju obično ne traži dozvolu. Odgovarajuća namjena za ovu kuću zato je „kupnja + dovršenje” ili „kupnja + rekonstrukcija”, a ne „kupnja + adaptacija”. Koje radove točno pojedina banka smatra adaptacijom, treba provjeriti u njezinim uvjetima, jer se pojam razlikuje od banke do banke.
+
+Izvori: [Zakon o gradnji (zakon.hr)](https://www.zakon.hr/z/690/zakon-o-gradnji), [NN 155/2025](https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_155_2316.html), na snazi od 1. 1. 2026. Definicije održavanja i rekonstrukcije preuzete su iz ranijih verzija zakona (2017., 2019.). Je li tekst u NN 155/25 ostao isti, nije provjereno.
+
 ## Mogućnosti financiranja
 
 Postoje bankovni proizvodi koji pokrivaju i kupnju i dovršenje u jednom kreditu. Uvjeti za kuću bez krova nisu javno objavljeni, pa ih treba tražiti od banke. Stranice banaka (hpb.hr, pbz.hr, erstebank.hr) iz ovog okruženja nisu bile dostupne. Sve što je ovdje navedeno potječe iz rezultata pretrage koji upućuju na dokumente banaka, a ti dokumenti nisu otvoreni i pročitani.
