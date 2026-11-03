@@ -42,10 +42,11 @@ Grube cijene iz javno objavljenih cjenika; stvarni iznos pokazuju tek ponude izv
 | Roh-bau (gruba gradnja) | 500 – 750 €/m² | Javni cjenici 2026. |
 | Kuća ključ u ruke | 1.300 – 1.900 €/m² | Javni cjenici 2026. |
 | Dovršetak od roh-bau do ključa u ruke | oko 650 – 1.000 €/m² | Izvedeno usporedbom dvaju cjenika, a ne preuzeto iz jednog izvora |
+| Kompletna adaptacija kuće | 600 – 800 €/m² | emajstor.hr (2026.); uključuje i rušenje zidova, prozore, fasadu, instalacije i završne radove, pa je lakše unutarnje preuređenje jeftinije |
 | Krov s konstrukcijom | oko 65 – 135 €/m² krovne plohe | emajstor.hr |
 | Rezerva za nepredviđeno | 10 – 15 % troška radova | Uobičajena praksa |
 
-Izvori: [Trebam.hr – cijena gradnje kuće 2026.](https://www.trebam.hr/cijene/gradnja-kuce/cijena-gradnje-kuce), [id-lux – kalkulator gradnje kuće 2026.](https://id-lux.com/kalkulator-gradnje-kuce/), [Reporter.hr – Gradnja kuće u 2026. godini](https://reporter.hr/gradnja-kuce-u-2026-godini-izmedu-paprenih-cijena-rada-i-lova-u-mutnom-kako-ne-ostati-bez-novca/), [Modul tehnika – cijene (roh-bau PLUS)](https://modultehnika.hr/montazne-kuce-cijena/), [emajstor.hr – krovopokrivački radovi](https://www.emajstor.hr/cijene/krovopokrivac), [emajstor.hr – novogradnja](https://www.emajstor.hr/cijene/novogradnja).
+Izvori: [Trebam.hr – cijena gradnje kuće 2026.](https://www.trebam.hr/cijene/gradnja-kuce/cijena-gradnje-kuce), [id-lux – kalkulator gradnje kuće 2026.](https://id-lux.com/kalkulator-gradnje-kuce/), [Reporter.hr – Gradnja kuće u 2026. godini](https://reporter.hr/gradnja-kuce-u-2026-godini-izmedu-paprenih-cijena-rada-i-lova-u-mutnom-kako-ne-ostati-bez-novca/), [Modul tehnika – cijene (roh-bau PLUS)](https://modultehnika.hr/montazne-kuce-cijena/), [emajstor.hr – krovopokrivački radovi](https://www.emajstor.hr/cijene/krovopokrivac), [emajstor.hr – novogradnja](https://www.emajstor.hr/cijene/novogradnja), [emajstor.hr – renovacija kuće](https://www.emajstor.hr/cijene/renovacija_kuce) (stanje 3. 11. 2026.).
 
 ## Rizici kupnje s radovima
 
