@@ -1,6 +1,6 @@
 # Provjera usklađenosti dokumenata
 
-Povremeni pregled cijelog repozitorija: traže se duplikati, proturječja, zastarjeli podaci i podaci na krivom mjestu. Provjera pokreće se na zahtjev korisnika ili kao zakazani zadatak. Ne mijenja dokumente sama: rezultat je izvještaj, a izmjene se rade tek kad ih korisnik odobri.
+Povremeni pregled cijelog repozitorija: traže se duplikati, proturječja, zastarjeli podaci i podaci na krivom mjestu. Provjera se pokreće na zahtjev korisnika ili kao zakazani zadatak. Ne mijenja dokumente sama: rezultat je izvještaj, a izmjene se rade tek kad ih korisnik odobri.
 
 ## Postupak
 
