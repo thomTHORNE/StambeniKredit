@@ -55,6 +55,8 @@ Ovdje je presudno računa li banka 90 % od **buduće** vrijednosti (cijena + rad
 | 100.000 € | Dovršenje | oko 128.700 € | oko 119.700 € | nije izvedivo |
 | 150.000 € | Dovršenje iz roh-bau faze | oko 80.100 € | oko 78.200 € | nije izvedivo |
 
+„Nije izvedivo” znači da radove ne možete platiti iz vlastitih sredstava: kad banka računa samo sadašnju vrijednost, kredit pokriva 90 % cijene kuće, a radove ne pokriva uopće. Od 38.000 € nakon rezerve (5.000 €) i ostalih troškova (4.440 €) ostaje 28.560 € za učešće, porez i radove zajedno; radovi od 30.000 € ili više već sami premašuju taj iznos.
+
 Ukupno za kupnju, troškove i radove na raspolaganju je najviše oko 242.000 € (kredit oko 204.000 € + 38.000 €), umanjeno za rezervu. Radovima treba dodati i rezervu za nepredviđeno od 10 – 15 % (Krediti za kupnju, adaptaciju i dovršenje), koja u tablici nije uključena.
 
 Kako je računato: najveća cijena je niža od dviju granica. Granica kredita: (204.000 € + 38.000 € − rezerva − ostali troškovi − radovi) ÷ (1,03 + provizija). Granica vlastitih sredstava kod buduće vrijednosti: (38.000 € − rezerva − ostali troškovi − 10 % radova) ÷ (0,13 + provizija); kod sadašnje vrijednosti: (38.000 € − rezerva − ostali troškovi − radovi) ÷ (0,13 + provizija).
