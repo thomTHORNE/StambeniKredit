@@ -28,4 +28,70 @@ Dokumenti su podijeljeni na **opće**, koji vrijede za svaku nekretninu (pravila
 | [Pretoki – Sveti Ivan Zelina](nekretnine/arhiva/Pretoki%20%E2%80%93%20Sveti%20Ivan%20Zelina.md) | Arhiva: useljiva kuća, kupnja propala 22. 10. 2026.; primjer cijelog izračuna |
 | [Predložak dokumenta nekretnine](nekretnine/Predlo%C5%BEak%20dokumenta%20nekretnine.md) | Obrazac za novu nekretninu |
 
+## Kako su dokumenti povezani
+
+Dokumenti su u tri razine: na vrhu parametri (Financijski okvir, uz ponude iz kojih dolazi kamata), ispod njih opća pravila i predlošci, a na dnu dokumenti nekretnina koji ih primjenjuju na jednu kuću. Strelica pokazuje smjer u kojem podaci i pravila teku: promjena na višoj razini utječe na sve ispod nje. Kontakti i komunikacija i Pojmovnik koriste se uvijek.
+
+```mermaid
+flowchart TD
+    subgraph R1["1. Parametri"]
+        direction LR
+        UP["Usporedba ponuda<br/>stambenih kredita"] --> FO["Financijski okvir<br/>primanja, vlastita sredstva,<br/>najveći kredit, prag procjene"]
+    end
+
+    subgraph R2["2. Opća pravila i predlošci"]
+        direction LR
+        PR["Proces kupnje kuće<br/>faze, dokumenti za banku, Rokovi"]
+        KL["Provjera nekretnine<br/>kontrolna lista"]
+        TP["Troškovnik kupnje<br/>predložak"]
+        PP["Povrat poreza<br/>mladima (APN)"]
+        KR["Krediti za kupnju,<br/>adaptaciju i dovršenje"]
+        PD["Predugovor<br/>sadržaj i odredbe"]
+    end
+
+    subgraph R3["3. Nekretnine (mapa nekretnine/)"]
+        direction LR
+        PDN["Predložak dokumenta<br/>nekretnine"] -. "obrazac" .-> NP["Nekretnine – pregled"]
+        NP --> CA["Caginec – Ivanić-Grad<br/>(razmatra se)"]
+        NP --> PT["arhiva: Pretoki –<br/>Sveti Ivan Zelina"]
+    end
+
+    subgraph SVE["Koriste se uvijek"]
+        direction LR
+        KK["Kontakti i komunikacija"]
+        PO["Pojmovnik"]
+    end
+
+    R1 -- "parametri" --> R2
+    R2 -- "pravila i predlošci" --> R3
+```
+
+## Koji je dokument kada bitan
+
+Faze su iz dokumenta Proces kupnje kuće; ispod svake su dokumenti koji se u njoj najviše koriste. Faza 6 postoji samo kod kuće s radovima.
+
+```mermaid
+flowchart LR
+    subgraph F1["1. Traženje i provjera"]
+        D1["Financijski okvir<br/>Provjera nekretnine<br/>Troškovnik – predložak<br/>Krediti za kupnju i dovršenje<br/>Nekretnine – pregled"]
+    end
+    subgraph F2["2. Predugovor i kapara"]
+        D2["Predugovor<br/>Troškovnik (kapara)<br/>Financijski okvir (prag)"]
+    end
+    subgraph F3["3. Procjena i kredit"]
+        D3["Usporedba ponuda<br/>Proces (dokumenti za banku)<br/>Krediti (kod radova)"]
+    end
+    subgraph F4["4. Ugovor i isplata"]
+        D4["Troškovnik (javni bilježnik)<br/>Proces (Rokovi)"]
+    end
+    subgraph F5["5. Nakon kupnje"]
+        D5["Povrat poreza (APN)<br/>Proces (Rokovi)"]
+    end
+    subgraph F6["6. Radovi (samo kod radova)"]
+        D6["Krediti za kupnju i dovršenje<br/>dokument nekretnine"]
+    end
+    F1 --> F2 --> F3 --> F4 --> F5
+    F4 -.-> F6
+```
+
 Upute za rad s Claudeom su u [CLAUDE.md](CLAUDE.md) i mapi [upute](upute/).
