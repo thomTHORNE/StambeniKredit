@@ -1,6 +1,6 @@
 # Stambeni kredit – kupnja kuće
 
-Bilješke, izračuni i dokumenti za kupnju kuće uz stambeni kredit: useljive kuće ili kuće koju treba adaptirati, rekonstruirati ili dovršiti. Stanje 3. 11. 2026.: tražimo nekretninu; kupnja u Pretokima je propala 22. 10. 2026., a razmatraju se kuće u Cagincu i Gornjem Vinkovcu.
+Bilješke, izračuni i dokumenti za kupnju kuće uz stambeni kredit: useljive kuće ili kuće koju treba adaptirati, rekonstruirati ili dovršiti. Stanje 3. 11. 2026.: tražimo nekretninu; kupnja u Pretokima je propala 22. 10. 2026., a razmatraju se kuće u Radulecu (Dubrava), Gornjem Vinkovcu i Cagincu.
 
 Dokumenti su podijeljeni na **opće**, koji vrijede za svaku nekretninu (pravila, parametri, predlošci), i **dokumente nekretnina** u mapi `nekretnine/`, koji sadrže samo podatke i izračune za jednu nekretninu i upućuju na opće dokumente. Propale ili odbačene nekretnine su u `nekretnine/arhiva/` i više se ne ažuriraju.
 
@@ -24,6 +24,7 @@ Dokumenti su podijeljeni na **opće**, koji vrijede za svaku nekretninu (pravila
 | Dokument | Sadržaj |
 | --- | --- |
 | [Nekretnine – pregled](nekretnine/Nekretnine%20%E2%80%93%20pregled.md) | Sve razmatrane nekretnine i njihov status |
+| [Radulec – Dubrava](nekretnine/Radulec%20%E2%80%93%20Dubrava.md) | Kuća s useljivim prizemljem i potkrovljem za dovršenje: troškovi kupnje, budžet za radove |
 | [Gornji Vinkovec – Sveti Ivan Zelina](nekretnine/Gornji%20Vinkovec%20%E2%80%93%20Sveti%20Ivan%20Zelina.md) | Useljiva kuća s planiranom adaptacijom: troškovi kupnje, budžet za preuređenje |
 | [Caginec – Ivanić-Grad](nekretnine/Caginec%20%E2%80%93%20Ivani%C4%87-Grad.md) | Kuća u roh-bau stanju: trošak dovršetka, rizici, okvir |
 | [Pretoki – Sveti Ivan Zelina](nekretnine/arhiva/Pretoki%20%E2%80%93%20Sveti%20Ivan%20Zelina.md) | Arhiva: useljiva kuća, kupnja propala 22. 10. 2026.; primjer cijelog izračuna |
@@ -53,6 +54,7 @@ flowchart TD
     subgraph R3["3. Nekretnine (mapa nekretnine/)"]
         direction LR
         PDN["Predložak dokumenta<br/>nekretnine"] -. "obrazac" .-> NP["Nekretnine – pregled"]
+        NP --> RD["Radulec – Dubrava<br/>(razmatra se)"]
         NP --> GV["Gornji Vinkovec – Sveti Ivan Zelina<br/>(razmatra se)"]
         NP --> CA["Caginec – Ivanić-Grad<br/>(razmatra se)"]
         NP --> PT["arhiva: Pretoki –<br/>Sveti Ivan Zelina"]

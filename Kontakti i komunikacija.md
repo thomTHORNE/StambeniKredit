@@ -11,6 +11,7 @@ Svi kontakti u procesu kupnje i kratak slijed komunikacije s njima, od najnovije
 | Tijana Salajić | Kreditna posrednica | Kompare (kompare.hr) | Prikuplja ponude banaka; usluga je za podnositelja kredita besplatna (usmeno potvrđeno 12. 10. 2026.) |
 | Matea Šuliček | Bankarica | Zagrebačka banka (Zaba) | Tel. 01 6136 393 i 01 6136 379. Dala neslužbenu telefonsku ponudu od 3,30 % (9. 10. 2026.) |
 | Ime naknadno | Bankarica | Zagrebačka banka (Zaba) | Izdala ponudu „stambeni kredit za mlade” od 12. 6. 2026.; ime i kontakt korisnik će dostaviti |
+| Jadranka Šogorić | Agentica za nekretnine (s licencom) | Dogma nekretnine (dogma-nekretnine.com) | Prodaje kuću u Radulecu (Dubrava); 098 986 6654, 042 562 017, jadranka.sogoric@dogma-nekretnine.com. Još nije kontaktirana |
 | Marijana Maloča | Agentica za nekretnine | Azori plus (azori-plus.hr) | Prodaje kuću u Gornjem Vinkovcu; marijana@azori-plus.hr. Još nije kontaktirana |
 | APN | Državna agencija za povrat poreza mladima | Agencija za pravni promet i posredovanje nekretninama | apn@apn.hr, 01 6331 600; Savska cesta 41, Zagreb |
 | Prodavatelji | Vlasnici kuća | – | Podaci o prodavateljima su u dokumentu svake nekretnine (mapa nekretnine) |
